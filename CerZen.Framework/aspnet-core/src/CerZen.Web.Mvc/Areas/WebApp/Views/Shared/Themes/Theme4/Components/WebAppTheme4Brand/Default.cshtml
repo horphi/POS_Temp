@@ -1,0 +1,13 @@
+﻿@using CerZen.Web.Areas.WebApp.Models.Layout
+@using CerZen.Web.Areas.WebApp.Views.Shared.Components.WebAppLogo
+@model HeaderViewModel
+@{
+    Layout = null;
+}
+<a href="@Url.Action("Index", "Home", new {area = string.Empty})">
+    @await Component.InvokeAsync(typeof(WebAppLogoViewComponent), new
+    {
+        logoSkin = "dark-sm", 
+        logoClass = "h-55px"
+    })
+</a>

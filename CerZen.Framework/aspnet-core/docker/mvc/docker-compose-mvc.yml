@@ -1,0 +1,22 @@
+﻿version: '3.7'
+
+services:
+      
+  cerzen.web.mvc:
+    image: ${DOCKER_REGISTRY-}cerzenwebmvc
+    container_name: cerzenwebmvc_container
+    build:
+      context: ../../
+      dockerfile: src/CerZen.Web.Mvc/Dockerfile
+    environment:
+      - ConnectionStrings__Default=Server=mssqlDb;Database=CerZenDb;User=sa;Password=Super_Encrypted_Passw0rd!
+      - Abp__RedisCache__ConnectionString=localhost:6379
+    ports:
+      - "44302:443"
+    networks:
+      - cerzen
+
+networks:
+  cerzen:
+    external:
+      name: cerzen

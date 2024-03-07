@@ -1,0 +1,14 @@
+﻿version: '3.7'
+
+services:
+      
+  cerzen.web.host:
+    image: cerzen.web.host
+    container_name: cerzen.web.host_container
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - ConnectionStrings__Default=Server=192.168.1.37,1433;Database=CerZenDb;User=sa;Password=123qwe;TrustServerCertificate=True;
+    ports:
+      - "44301:443"

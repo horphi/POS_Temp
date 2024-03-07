@@ -1,0 +1,14 @@
+﻿global:
+  wwwHostDomain: cerzen-host-www
+  wwwHostUrl: "https://cerzen-host-www"
+  wwwAngularDomain: cerzen-angular-www
+  wwwAngularUrl: "https://cerzen-angular-www"
+  nginxProxyBufferSize: "32k"
+  nginxProxyBuffersNumber: "8"
+  defaultConnString: "Server=anz-sql,1433;Database=CerZenDb;User ID=sa;Password=123qweX."
+www-host:
+  containerImage: "cerzen-host"
+www-angular:
+  containerImage: "cerzen-angular"  
+dbmigrator:
+  containerImage: "cerzen-migrator"

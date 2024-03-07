@@ -1,0 +1,3872 @@
+[
+  {
+    "EventCode": 1,
+    "EventName": "MYSTERRY BOUNTY 11M ",
+    "Rank": 10,
+    "PlayerName": "NGUYEN THANH SON",
+    "PrizePool": 227055,
+    "Entries": 555,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 1,
+    "EventName": "MYSTERRY BOUNTY 11M ",
+    "Rank": 9,
+    "PlayerName": "NGUYEN DUY TUNG",
+    "PrizePool": 227055,
+    "Entries": 555,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 1,
+    "EventName": "MYSTERRY BOUNTY 11M ",
+    "Rank": 8,
+    "PlayerName": "XU WEI",
+    "PrizePool": 227055,
+    "Entries": 555,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 1,
+    "EventName": "MYSTERRY BOUNTY 11M ",
+    "Rank": 7,
+    "PlayerName": "LEE SEOKYOUNG",
+    "PrizePool": 227055,
+    "Entries": 555,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 1,
+    "EventName": "MYSTERRY BOUNTY 11M ",
+    "Rank": 6,
+    "PlayerName": "DO TUAN PHONG",
+    "PrizePool": 227055,
+    "Entries": 555,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 1,
+    "EventName": "MYSTERRY BOUNTY 11M ",
+    "Rank": 5,
+    "PlayerName": "TAN XIAOHUI",
+    "PrizePool": 227055,
+    "Entries": 555,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 1,
+    "EventName": "MYSTERRY BOUNTY 11M ",
+    "Rank": 4,
+    "PlayerName": "MAI BIEN",
+    "PrizePool": 227055,
+    "Entries": 555,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 1,
+    "EventName": "MYSTERRY BOUNTY 11M ",
+    "Rank": 3,
+    "PlayerName": "DANG MINH DAT",
+    "PrizePool": 227055,
+    "Entries": 555,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 1,
+    "EventName": "MYSTERRY BOUNTY 11M ",
+    "Rank": 2,
+    "PlayerName": "DO VAN THANG",
+    "PrizePool": 227055,
+    "Entries": 555,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 1,
+    "EventName": "MYSTERRY BOUNTY 11M ",
+    "Rank": 1,
+    "PlayerName": "NEMESKERI KISS ROBERT",
+    "PrizePool": 227055,
+    "Entries": 555,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 2,
+    "EventName": "HIGH ROLLER : WARM UP",
+    "Rank": 10,
+    "PlayerName": "TRUONG TOAN CHAN",
+    "PrizePool": 203000,
+    "Entries": 127,
+    "BuyInAmount": 1860
+  },
+  {
+    "EventCode": 2,
+    "EventName": "HIGH ROLLER : WARM UP",
+    "Rank": 9,
+    "PlayerName": "YUAN XIN",
+    "PrizePool": 203000,
+    "Entries": 127,
+    "BuyInAmount": 1860
+  },
+  {
+    "EventCode": 2,
+    "EventName": "HIGH ROLLER : WARM UP",
+    "Rank": 8,
+    "PlayerName": "KIM SEONGGWON",
+    "PrizePool": 203000,
+    "Entries": 127,
+    "BuyInAmount": 1860
+  },
+  {
+    "EventCode": 2,
+    "EventName": "HIGH ROLLER : WARM UP",
+    "Rank": 7,
+    "PlayerName": "CHOONG YITA",
+    "PrizePool": 203000,
+    "Entries": 127,
+    "BuyInAmount": 1860
+  },
+  {
+    "EventCode": 2,
+    "EventName": "HIGH ROLLER : WARM UP",
+    "Rank": 6,
+    "PlayerName": "NGUYEN KHOI",
+    "PrizePool": 203000,
+    "Entries": 127,
+    "BuyInAmount": 1860
+  },
+  {
+    "EventCode": 2,
+    "EventName": "HIGH ROLLER : WARM UP",
+    "Rank": 5,
+    "PlayerName": "NATALIA ROZOVA",
+    "PrizePool": 203000,
+    "Entries": 127,
+    "BuyInAmount": 1860
+  },
+  {
+    "EventCode": 2,
+    "EventName": "HIGH ROLLER : WARM UP",
+    "Rank": 4,
+    "PlayerName": "NAY THA LIN",
+    "PrizePool": 203000,
+    "Entries": 127,
+    "BuyInAmount": 1860
+  },
+  {
+    "EventCode": 2,
+    "EventName": "HIGH ROLLER : WARM UP",
+    "Rank": 3,
+    "PlayerName": "WARHURST JULIAN ANDREW",
+    "PrizePool": 203000,
+    "Entries": 127,
+    "BuyInAmount": 1860
+  },
+  {
+    "EventCode": 2,
+    "EventName": "HIGH ROLLER : WARM UP",
+    "Rank": 2,
+    "PlayerName": "NGUYEN QUANG HUY",
+    "PrizePool": 203000,
+    "Entries": 127,
+    "BuyInAmount": 1860
+  },
+  {
+    "EventCode": 2,
+    "EventName": "HIGH ROLLER : WARM UP",
+    "Rank": 1,
+    "PlayerName": "CHANG YU CHUNG",
+    "PrizePool": 203000,
+    "Entries": 127,
+    "BuyInAmount": 1860
+  },
+  {
+    "EventCode": 3,
+    "EventName": "DEEPSTACK",
+    "Rank": 6,
+    "PlayerName": "CHO MIYOUNG",
+    "PrizePool": 16000,
+    "Entries": 50,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 3,
+    "EventName": "DEEPSTACK",
+    "Rank": 5,
+    "PlayerName": "HARO CLEEMENT JEAN - MICHEL",
+    "PrizePool": 16000,
+    "Entries": 50,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 3,
+    "EventName": "DEEPSTACK",
+    "Rank": 4,
+    "PlayerName": "BIER ROMAIN MICHEL",
+    "PrizePool": 16000,
+    "Entries": 50,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 3,
+    "EventName": "DEEPSTACK",
+    "Rank": 3,
+    "PlayerName": "BEVIN MATTHEW HENRY",
+    "PrizePool": 16000,
+    "Entries": 50,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 3,
+    "EventName": "DEEPSTACK",
+    "Rank": 2,
+    "PlayerName": "PARK JUJUNG",
+    "PrizePool": 16000,
+    "Entries": 50,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 3,
+    "EventName": "DEEPSTACK",
+    "Rank": 1,
+    "PlayerName": "YIN WENHUA",
+    "PrizePool": 16000,
+    "Entries": 50,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 4,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 9,
+    "PlayerName": "KONSTANTIN HELD",
+    "PrizePool": 49570,
+    "Entries": 62,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 4,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 8,
+    "PlayerName": "DANIEL PATRICK",
+    "PrizePool": 49570,
+    "Entries": 62,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 4,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 7,
+    "PlayerName": "JOSHUA MCCULLY",
+    "PrizePool": 49570,
+    "Entries": 62,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 4,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 6,
+    "PlayerName": "MICHAEL O'NEIL",
+    "PrizePool": 49570,
+    "Entries": 62,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 4,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 5,
+    "PlayerName": "BUI TUAN HOANG",
+    "PrizePool": 49570,
+    "Entries": 62,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 4,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 4,
+    "PlayerName": "PERY JOHN EDWARD",
+    "PrizePool": 49570,
+    "Entries": 62,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 4,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 3,
+    "PlayerName": "LE NGOC MINH",
+    "PrizePool": 49570,
+    "Entries": 62,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 4,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 2,
+    "PlayerName": "KIM WOO SEOK",
+    "PrizePool": 49570,
+    "Entries": 62,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 4,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 1,
+    "PlayerName": "DENG ZHIWEN",
+    "PrizePool": 49570,
+    "Entries": 62,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 5,
+    "EventName": "TURBO",
+    "Rank": 10,
+    "PlayerName": "NG GUO GUANG",
+    "PrizePool": 9600,
+    "Entries": 80,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 5,
+    "EventName": "TURBO",
+    "Rank": 9,
+    "PlayerName": "YOU MINSUN",
+    "PrizePool": 9600,
+    "Entries": 80,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 5,
+    "EventName": "TURBO",
+    "Rank": 8,
+    "PlayerName": "TONG VAN VIET",
+    "PrizePool": 9600,
+    "Entries": 80,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 5,
+    "EventName": "TURBO",
+    "Rank": 7,
+    "PlayerName": "TAI WEILIANG",
+    "PrizePool": 9600,
+    "Entries": 80,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 5,
+    "EventName": "TURBO",
+    "Rank": 6,
+    "PlayerName": "DANG MINH DAT",
+    "PrizePool": 9600,
+    "Entries": 80,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 5,
+    "EventName": "TURBO",
+    "Rank": 5,
+    "PlayerName": "LEE JIHOON",
+    "PrizePool": 9600,
+    "Entries": 80,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 5,
+    "EventName": "TURBO",
+    "Rank": 4,
+    "PlayerName": "TSANG KA SHUN",
+    "PrizePool": 9600,
+    "Entries": 80,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 5,
+    "EventName": "TURBO",
+    "Rank": 3,
+    "PlayerName": "NG TSUN YIN",
+    "PrizePool": 9600,
+    "Entries": 80,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 5,
+    "EventName": "TURBO",
+    "Rank": 2,
+    "PlayerName": "NGUYEN MINH HOAI AN",
+    "PrizePool": 9600,
+    "Entries": 80,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 5,
+    "EventName": "TURBO",
+    "Rank": 1,
+    "PlayerName": "KAUSHIK AMIT",
+    "PrizePool": 9600,
+    "Entries": 80,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 6,
+    "EventName": "SHORT DECK - HYPER TURBO",
+    "Rank": 2,
+    "PlayerName": "ERMIN IVAN",
+    "PrizePool": 2560,
+    "Entries": 16,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 6,
+    "EventName": "SHORT DECK - HYPER TURBO",
+    "Rank": 1,
+    "PlayerName": "KRISHNA WADEESIRAK",
+    "PrizePool": 2560,
+    "Entries": 16,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 7,
+    "EventName": "HIGH ROLLER FOR RED CROSS",
+    "Rank": 10,
+    "PlayerName": "KASHIWABARA MASATO",
+    "PrizePool": 240800,
+    "Entries": 123,
+    "BuyInAmount": 2326
+  },
+  {
+    "EventCode": 7,
+    "EventName": "HIGH ROLLER FOR RED CROSS",
+    "Rank": 9,
+    "PlayerName": "CHANG YU CHUNG",
+    "PrizePool": 240800,
+    "Entries": 123,
+    "BuyInAmount": 2326
+  },
+  {
+    "EventCode": 7,
+    "EventName": "HIGH ROLLER FOR RED CROSS",
+    "Rank": 8,
+    "PlayerName": "LE NGOC MINH",
+    "PrizePool": 240800,
+    "Entries": 123,
+    "BuyInAmount": 2326
+  },
+  {
+    "EventCode": 7,
+    "EventName": "HIGH ROLLER FOR RED CROSS",
+    "Rank": 7,
+    "PlayerName": "NATTAPATSIRI MR.PAUL",
+    "PrizePool": 240800,
+    "Entries": 123,
+    "BuyInAmount": 2326
+  },
+  {
+    "EventCode": 7,
+    "EventName": "HIGH ROLLER FOR RED CROSS",
+    "Rank": 6,
+    "PlayerName": "PHAM ALAN ANH MINH",
+    "PrizePool": 240800,
+    "Entries": 123,
+    "BuyInAmount": 2326
+  },
+  {
+    "EventCode": 7,
+    "EventName": "HIGH ROLLER FOR RED CROSS",
+    "Rank": 5,
+    "PlayerName": "JUNG SEUNGMOOK",
+    "PrizePool": 240800,
+    "Entries": 123,
+    "BuyInAmount": 2326
+  },
+  {
+    "EventCode": 7,
+    "EventName": "HIGH ROLLER FOR RED CROSS",
+    "Rank": 4,
+    "PlayerName": "HONG JINHO",
+    "PrizePool": 240800,
+    "Entries": 123,
+    "BuyInAmount": 2326
+  },
+  {
+    "EventCode": 7,
+    "EventName": "HIGH ROLLER FOR RED CROSS",
+    "Rank": 3,
+    "PlayerName": "ZHENG XIAOSHENG",
+    "PrizePool": 240800,
+    "Entries": 123,
+    "BuyInAmount": 2326
+  },
+  {
+    "EventCode": 7,
+    "EventName": "HIGH ROLLER FOR RED CROSS",
+    "Rank": 2,
+    "PlayerName": "LEE YUNBEOM",
+    "PrizePool": 240800,
+    "Entries": 123,
+    "BuyInAmount": 2326
+  },
+  {
+    "EventCode": 7,
+    "EventName": "HIGH ROLLER FOR RED CROSS",
+    "Rank": 1,
+    "PlayerName": "TOBIAS BUI",
+    "PrizePool": 240800,
+    "Entries": 123,
+    "BuyInAmount": 2326
+  },
+  {
+    "EventCode": 8,
+    "EventName": "BIG BOUNTY",
+    "Rank": 7,
+    "PlayerName": "NGUYEN MANH TRUNG",
+    "PrizePool": 9870,
+    "Entries": 52,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 8,
+    "EventName": "BIG BOUNTY",
+    "Rank": 6,
+    "PlayerName": "NGUYEN NHAT MINH",
+    "PrizePool": 9870,
+    "Entries": 52,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 8,
+    "EventName": "BIG BOUNTY",
+    "Rank": 5,
+    "PlayerName": "LE MANH HUNG",
+    "PrizePool": 9870,
+    "Entries": 52,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 8,
+    "EventName": "BIG BOUNTY",
+    "Rank": 4,
+    "PlayerName": "TA DINH LONG",
+    "PrizePool": 9870,
+    "Entries": 52,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 8,
+    "EventName": "BIG BOUNTY",
+    "Rank": 3,
+    "PlayerName": "BOLDKHUU SHINEKHUU",
+    "PrizePool": 9870,
+    "Entries": 52,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 8,
+    "EventName": "BIG BOUNTY",
+    "Rank": 2,
+    "PlayerName": "CEMEPEHKO SEMERENKO",
+    "PrizePool": 9870,
+    "Entries": 52,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 8,
+    "EventName": "BIG BOUNTY",
+    "Rank": 1,
+    "PlayerName": "NGUYEN HOANG NAM",
+    "PrizePool": 9870,
+    "Entries": 52,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 9,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 5,
+    "PlayerName": "BUI QUANG TUNG",
+    "PrizePool": 30380,
+    "Entries": 38,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 9,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 4,
+    "PlayerName": "DO QUANG TRINH",
+    "PrizePool": 30380,
+    "Entries": 38,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 9,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 3,
+    "PlayerName": "TRUONG TOAN CHAN",
+    "PrizePool": 30380,
+    "Entries": 38,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 9,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 2,
+    "PlayerName": "LEE JUNGHYUN",
+    "PrizePool": 30380,
+    "Entries": 38,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 9,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 1,
+    "PlayerName": "QIU QUAN",
+    "PrizePool": 30380,
+    "Entries": 38,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 10,
+    "EventName": "POT LIMIT OMAHA - TURBO",
+    "Rank": 5,
+    "PlayerName": "JAE MOO YOUNG",
+    "PrizePool": 6400,
+    "Entries": 40,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 10,
+    "EventName": "POT LIMIT OMAHA - TURBO",
+    "Rank": 4,
+    "PlayerName": "ERMIN IVAN",
+    "PrizePool": 6400,
+    "Entries": 40,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 10,
+    "EventName": "POT LIMIT OMAHA - TURBO",
+    "Rank": 3,
+    "PlayerName": "DONG VAN TAN",
+    "PrizePool": 6400,
+    "Entries": 40,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 10,
+    "EventName": "POT LIMIT OMAHA - TURBO",
+    "Rank": 2,
+    "PlayerName": "FARANDA FEDERICO",
+    "PrizePool": 6400,
+    "Entries": 40,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 10,
+    "EventName": "POT LIMIT OMAHA - TURBO",
+    "Rank": 1,
+    "PlayerName": "VUJANIC TANJA",
+    "PrizePool": 6400,
+    "Entries": 40,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 11,
+    "EventName": "HYPER TURBO",
+    "Rank": 3,
+    "PlayerName": "DANIEL PATRICK",
+    "PrizePool": 8630,
+    "Entries": 27,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 11,
+    "EventName": "HYPER TURBO",
+    "Rank": 2,
+    "PlayerName": "ANTON LU ZHEN ZHAO",
+    "PrizePool": 8630,
+    "Entries": 27,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 11,
+    "EventName": "HYPER TURBO",
+    "Rank": 1,
+    "PlayerName": "KIM WOOSEOK",
+    "PrizePool": 8630,
+    "Entries": 27,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 12,
+    "EventName": "SUNDAY SUPERSTACK",
+    "Rank": 10,
+    "PlayerName": "YOON JIWON",
+    "PrizePool": 71000,
+    "Entries": 222,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 12,
+    "EventName": "SUNDAY SUPERSTACK",
+    "Rank": 9,
+    "PlayerName": "BEVIN MATTHEW HENRY",
+    "PrizePool": 71000,
+    "Entries": 222,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 12,
+    "EventName": "SUNDAY SUPERSTACK",
+    "Rank": 8,
+    "PlayerName": "KOMARNICKI OLIVIER CHARLES GUILLAUME",
+    "PrizePool": 71000,
+    "Entries": 222,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 12,
+    "EventName": "SUNDAY SUPERSTACK",
+    "Rank": 7,
+    "PlayerName": "NGUYEN DUC DAT",
+    "PrizePool": 71000,
+    "Entries": 222,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 12,
+    "EventName": "SUNDAY SUPERSTACK",
+    "Rank": 6,
+    "PlayerName": "TUNG ZI WEI",
+    "PrizePool": 71000,
+    "Entries": 222,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 12,
+    "EventName": "SUNDAY SUPERSTACK",
+    "Rank": 5,
+    "PlayerName": "ZHU JINGXUAN",
+    "PrizePool": 71000,
+    "Entries": 222,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 12,
+    "EventName": "SUNDAY SUPERSTACK",
+    "Rank": 4,
+    "PlayerName": "KAUSHIK AMIT",
+    "PrizePool": 71000,
+    "Entries": 222,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 12,
+    "EventName": "SUNDAY SUPERSTACK",
+    "Rank": 3,
+    "PlayerName": "ANDREW YEO KAI CHEN",
+    "PrizePool": 71000,
+    "Entries": 222,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 12,
+    "EventName": "SUNDAY SUPERSTACK",
+    "Rank": 2,
+    "PlayerName": "NG TSUN YIN",
+    "PrizePool": 71000,
+    "Entries": 222,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 12,
+    "EventName": "SUNDAY SUPERSTACK",
+    "Rank": 1,
+    "PlayerName": "SERGEI POLTAVETS",
+    "PrizePool": 71000,
+    "Entries": 222,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 13,
+    "EventName": "SUPERSTAR CHALLENGE",
+    "Rank": 10,
+    "PlayerName": "JUNG SEUNGMOOK",
+    "PrizePool": 595470,
+    "Entries": 133,
+    "BuyInAmount": 5074
+  },
+  {
+    "EventCode": 13,
+    "EventName": "SUPERSTAR CHALLENGE",
+    "Rank": 9,
+    "PlayerName": "ALAN KHOO",
+    "PrizePool": 595470,
+    "Entries": 133,
+    "BuyInAmount": 5074
+  },
+  {
+    "EventCode": 13,
+    "EventName": "SUPERSTAR CHALLENGE",
+    "Rank": 8,
+    "PlayerName": "PHAM ALAN ANH-MINH",
+    "PrizePool": 595470,
+    "Entries": 133,
+    "BuyInAmount": 5074
+  },
+  {
+    "EventCode": 13,
+    "EventName": "SUPERSTAR CHALLENGE",
+    "Rank": 7,
+    "PlayerName": "JEFFREY KUEN-WAI",
+    "PrizePool": 595470,
+    "Entries": 133,
+    "BuyInAmount": 5074
+  },
+  {
+    "EventCode": 13,
+    "EventName": "SUPERSTAR CHALLENGE",
+    "Rank": 6,
+    "PlayerName": "JUNHYOUNG KI",
+    "PrizePool": 595470,
+    "Entries": 133,
+    "BuyInAmount": 5074
+  },
+  {
+    "EventCode": 13,
+    "EventName": "SUPERSTAR CHALLENGE",
+    "Rank": 5,
+    "PlayerName": "FOSTER DYLAN WAYNE",
+    "PrizePool": 595470,
+    "Entries": 133,
+    "BuyInAmount": 5074
+  },
+  {
+    "EventCode": 13,
+    "EventName": "SUPERSTAR CHALLENGE",
+    "Rank": 4,
+    "PlayerName": "TAN WIN MENG",
+    "PrizePool": 595470,
+    "Entries": 133,
+    "BuyInAmount": 5074
+  },
+  {
+    "EventCode": 13,
+    "EventName": "SUPERSTAR CHALLENGE",
+    "Rank": 3,
+    "PlayerName": "MIKE TAKAYAMA",
+    "PrizePool": 595470,
+    "Entries": 133,
+    "BuyInAmount": 5074
+  },
+  {
+    "EventCode": 13,
+    "EventName": "SUPERSTAR CHALLENGE",
+    "Rank": 2,
+    "PlayerName": "NGUYỄN QUANG HUY",
+    "PrizePool": 595470,
+    "Entries": 133,
+    "BuyInAmount": 5074
+  },
+  {
+    "EventCode": 13,
+    "EventName": "SUPERSTAR CHALLENGE",
+    "Rank": 1,
+    "PlayerName": "SHIN JAE WOOK",
+    "PrizePool": 595470,
+    "Entries": 133,
+    "BuyInAmount": 5074
+  },
+  {
+    "EventCode": 14,
+    "EventName": "SHORT DECK",
+    "Rank": 3,
+    "PlayerName": "TAN WAH MENG",
+    "PrizePool": 10390,
+    "Entries": 26,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 14,
+    "EventName": "SHORT DECK",
+    "Rank": 2,
+    "PlayerName": "ERMIN IVAN",
+    "PrizePool": 10390,
+    "Entries": 26,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 14,
+    "EventName": "SHORT DECK",
+    "Rank": 1,
+    "PlayerName": "DANIEL PATRICK",
+    "PrizePool": 10390,
+    "Entries": 26,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 15,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 7,
+    "PlayerName": "KYAW PAING HTET",
+    "PrizePool": 46370,
+    "Entries": 58,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 15,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 6,
+    "PlayerName": "DOAN QUANG TRUNG",
+    "PrizePool": 46370,
+    "Entries": 58,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 15,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 5,
+    "PlayerName": "MUNSAF MEHERZAD VIRAF",
+    "PrizePool": 46370,
+    "Entries": 58,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 15,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 4,
+    "PlayerName": "BUI QUANG TUNG",
+    "PrizePool": 46370,
+    "Entries": 58,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 15,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 3,
+    "PlayerName": "ROZOVA NATALIA",
+    "PrizePool": 46370,
+    "Entries": 58,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 15,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 2,
+    "PlayerName": "SHEN HAO",
+    "PrizePool": 46370,
+    "Entries": 58,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 15,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 1,
+    "PlayerName": "DO ANH TAI",
+    "PrizePool": 46370,
+    "Entries": 58,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 16,
+    "EventName": "TURBO",
+    "Rank": 10,
+    "PlayerName": "TAN HING KANG JASON",
+    "PrizePool": 15350,
+    "Entries": 96,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 16,
+    "EventName": "TURBO",
+    "Rank": 9,
+    "PlayerName": "TIEW KAR HUAT",
+    "PrizePool": 15350,
+    "Entries": 96,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 16,
+    "EventName": "TURBO",
+    "Rank": 8,
+    "PlayerName": "CEMEPEHKO SEMERENKO",
+    "PrizePool": 15350,
+    "Entries": 96,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 16,
+    "EventName": "TURBO",
+    "Rank": 7,
+    "PlayerName": "SZE YUK PING",
+    "PrizePool": 15350,
+    "Entries": 96,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 16,
+    "EventName": "TURBO",
+    "Rank": 6,
+    "PlayerName": "MYAGMARSUREN ARIUNTEMUUJIN",
+    "PrizePool": 15350,
+    "Entries": 96,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 16,
+    "EventName": "TURBO",
+    "Rank": 5,
+    "PlayerName": "LEE JUNGHYUN",
+    "PrizePool": 15350,
+    "Entries": 96,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 16,
+    "EventName": "TURBO",
+    "Rank": 4,
+    "PlayerName": "ABHISHEK PAUL",
+    "PrizePool": 15350,
+    "Entries": 96,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 16,
+    "EventName": "TURBO",
+    "Rank": 3,
+    "PlayerName": "YIN WENHUA",
+    "PrizePool": 15350,
+    "Entries": 96,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 16,
+    "EventName": "TURBO",
+    "Rank": 2,
+    "PlayerName": "VU THAI BAO",
+    "PrizePool": 15350,
+    "Entries": 96,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 16,
+    "EventName": "TURBO",
+    "Rank": 1,
+    "PlayerName": "BIER ROMAIN MICHEL",
+    "PrizePool": 15350,
+    "Entries": 96,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 17,
+    "EventName": "BOUNTY HUNTER - TURBO",
+    "Rank": 6,
+    "PlayerName": "NATTAPATSIRI MR.PAUL",
+    "PrizePool": 10340,
+    "Entries": 50,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 17,
+    "EventName": "BOUNTY HUNTER - TURBO",
+    "Rank": 5,
+    "PlayerName": "CHANG YU CHUNG",
+    "PrizePool": 10340,
+    "Entries": 50,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 17,
+    "EventName": "BOUNTY HUNTER - TURBO",
+    "Rank": 4,
+    "PlayerName": "LEE KOAGHO",
+    "PrizePool": 10340,
+    "Entries": 50,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 17,
+    "EventName": "BOUNTY HUNTER - TURBO",
+    "Rank": 3,
+    "PlayerName": "JEONG HYUN WOO",
+    "PrizePool": 10340,
+    "Entries": 50,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 17,
+    "EventName": "BOUNTY HUNTER - TURBO",
+    "Rank": 2,
+    "PlayerName": "GUY TAYLOR",
+    "PrizePool": 10340,
+    "Entries": 50,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 17,
+    "EventName": "BOUNTY HUNTER - TURBO",
+    "Rank": 1,
+    "PlayerName": "DONG YIXUAN",
+    "PrizePool": 10340,
+    "Entries": 50,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 18,
+    "EventName": "MINI MAIN EVENT",
+    "Rank": 10,
+    "PlayerName": "KAUSHIK AMIT",
+    "PrizePool": 300940,
+    "Entries": 935,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 18,
+    "EventName": "MINI MAIN EVENT",
+    "Rank": 9,
+    "PlayerName": "CAO MINH THANG",
+    "PrizePool": 300940,
+    "Entries": 935,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 18,
+    "EventName": "MINI MAIN EVENT",
+    "Rank": 8,
+    "PlayerName": "GUY TAYLOR",
+    "PrizePool": 300940,
+    "Entries": 935,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 18,
+    "EventName": "MINI MAIN EVENT",
+    "Rank": 7,
+    "PlayerName": "TEOH MING HONG",
+    "PrizePool": 300940,
+    "Entries": 935,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 18,
+    "EventName": "MINI MAIN EVENT",
+    "Rank": 6,
+    "PlayerName": "KHANDUJA CHIRAG",
+    "PrizePool": 300940,
+    "Entries": 935,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 18,
+    "EventName": "MINI MAIN EVENT",
+    "Rank": 5,
+    "PlayerName": "NGO MINH TIEN",
+    "PrizePool": 300940,
+    "Entries": 935,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 18,
+    "EventName": "MINI MAIN EVENT",
+    "Rank": 4,
+    "PlayerName": "TAN KEAN WEI",
+    "PrizePool": 300940,
+    "Entries": 935,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 18,
+    "EventName": "MINI MAIN EVENT",
+    "Rank": 3,
+    "PlayerName": "PHAM DUY TIEN",
+    "PrizePool": 300940,
+    "Entries": 935,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 18,
+    "EventName": "MINI MAIN EVENT",
+    "Rank": 2,
+    "PlayerName": "DIEP QUOC BAO",
+    "PrizePool": 300940,
+    "Entries": 935,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 18,
+    "EventName": "MINI MAIN EVENT",
+    "Rank": 1,
+    "PlayerName": "SCHULZE OLIVER",
+    "PrizePool": 300940,
+    "Entries": 935,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 19,
+    "EventName": "HIGH ROLLER : BOUNTY HUNTER",
+    "Rank": 10,
+    "PlayerName": "DANG VAN HIEN",
+    "PrizePool": 253465,
+    "Entries": 105,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 19,
+    "EventName": "HIGH ROLLER : BOUNTY HUNTER",
+    "Rank": 9,
+    "PlayerName": "ANTON LU ZHEN ZHAO",
+    "PrizePool": 253465,
+    "Entries": 105,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 19,
+    "EventName": "HIGH ROLLER : BOUNTY HUNTER",
+    "Rank": 8,
+    "PlayerName": "ZHENG TIANHAO",
+    "PrizePool": 253465,
+    "Entries": 105,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 19,
+    "EventName": "HIGH ROLLER : BOUNTY HUNTER",
+    "Rank": 7,
+    "PlayerName": "BUI QUANG TUNG",
+    "PrizePool": 253465,
+    "Entries": 105,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 19,
+    "EventName": "HIGH ROLLER : BOUNTY HUNTER",
+    "Rank": 6,
+    "PlayerName": "HOANG HAI NAM",
+    "PrizePool": 253465,
+    "Entries": 105,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 19,
+    "EventName": "HIGH ROLLER : BOUNTY HUNTER",
+    "Rank": 5,
+    "PlayerName": "NGUYEN TRUNG QUAN",
+    "PrizePool": 253465,
+    "Entries": 105,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 19,
+    "EventName": "HIGH ROLLER : BOUNTY HUNTER",
+    "Rank": 4,
+    "PlayerName": "PENG YANG",
+    "PrizePool": 253465,
+    "Entries": 105,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 19,
+    "EventName": "HIGH ROLLER : BOUNTY HUNTER",
+    "Rank": 3,
+    "PlayerName": "TOMONARI NOMURA",
+    "PrizePool": 253465,
+    "Entries": 105,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 19,
+    "EventName": "HIGH ROLLER : BOUNTY HUNTER",
+    "Rank": 2,
+    "PlayerName": "PHAM QUANG HUY",
+    "PrizePool": 253465,
+    "Entries": 105,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 19,
+    "EventName": "HIGH ROLLER : BOUNTY HUNTER",
+    "Rank": 1,
+    "PlayerName": "THOMAS WARD",
+    "PrizePool": 253465,
+    "Entries": 105,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 20,
+    "EventName": "PROGRESSIVE KNOCKOUT",
+    "Rank": 9,
+    "PlayerName": "MAI BIEN",
+    "PrizePool": 8130,
+    "Entries": 70,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 20,
+    "EventName": "PROGRESSIVE KNOCKOUT",
+    "Rank": 8,
+    "PlayerName": "LITASOV VLADIMIR",
+    "PrizePool": 8130,
+    "Entries": 70,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 20,
+    "EventName": "PROGRESSIVE KNOCKOUT",
+    "Rank": 7,
+    "PlayerName": "JOSHUA FIGUERRES",
+    "PrizePool": 8130,
+    "Entries": 70,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 20,
+    "EventName": "PROGRESSIVE KNOCKOUT",
+    "Rank": 6,
+    "PlayerName": "JEORGE LAGATUZ",
+    "PrizePool": 8130,
+    "Entries": 70,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 20,
+    "EventName": "PROGRESSIVE KNOCKOUT",
+    "Rank": 5,
+    "PlayerName": "NGUYEN HA BAC",
+    "PrizePool": 8130,
+    "Entries": 70,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 20,
+    "EventName": "PROGRESSIVE KNOCKOUT",
+    "Rank": 4,
+    "PlayerName": "VOONG ANUY",
+    "PrizePool": 8130,
+    "Entries": 70,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 20,
+    "EventName": "PROGRESSIVE KNOCKOUT",
+    "Rank": 3,
+    "PlayerName": "HOANG NAM SON",
+    "PrizePool": 8130,
+    "Entries": 70,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 20,
+    "EventName": "PROGRESSIVE KNOCKOUT",
+    "Rank": 2,
+    "PlayerName": "TAN XIAOHUI",
+    "PrizePool": 8130,
+    "Entries": 70,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 20,
+    "EventName": "PROGRESSIVE KNOCKOUT",
+    "Rank": 1,
+    "PlayerName": "IABLOKOV SERGEI",
+    "PrizePool": 8130,
+    "Entries": 70,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 21,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 10,
+    "PlayerName": "ADRIAN CHUA BOON CHYE",
+    "PrizePool": 97540,
+    "Entries": 122,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 21,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 9,
+    "PlayerName": "HONG JINHO",
+    "PrizePool": 97540,
+    "Entries": 122,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 21,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 8,
+    "PlayerName": "SINGH ADITYA",
+    "PrizePool": 97540,
+    "Entries": 122,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 21,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 7,
+    "PlayerName": "CHOONG YITA",
+    "PrizePool": 97540,
+    "Entries": 122,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 21,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 6,
+    "PlayerName": "VICTOR CHONG FOOK KIONG",
+    "PrizePool": 97540,
+    "Entries": 122,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 21,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 5,
+    "PlayerName": "HARO CLEEMENT JEAN - MICHEL",
+    "PrizePool": 97540,
+    "Entries": 122,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 21,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 4,
+    "PlayerName": "THOMAS GARY POUND",
+    "PrizePool": 97540,
+    "Entries": 122,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 21,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 3,
+    "PlayerName": "TAN ONG KWAN",
+    "PrizePool": 97540,
+    "Entries": 122,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 21,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 2,
+    "PlayerName": "HEIN HTET AUNG",
+    "PrizePool": 97540,
+    "Entries": 122,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 21,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 1,
+    "PlayerName": "BIER ROMAIN MICHEL",
+    "PrizePool": 97540,
+    "Entries": 122,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 22,
+    "EventName": "RUN IT TWICE",
+    "Rank": 6,
+    "PlayerName": "GATMANEE JITLERT",
+    "PrizePool": 7030,
+    "Entries": 44,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 22,
+    "EventName": "RUN IT TWICE",
+    "Rank": 5,
+    "PlayerName": "JONATHAN LOOI TEK WYE",
+    "PrizePool": 7030,
+    "Entries": 44,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 22,
+    "EventName": "RUN IT TWICE",
+    "Rank": 4,
+    "PlayerName": "NGUYEN DUC PHUC",
+    "PrizePool": 7030,
+    "Entries": 44,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 22,
+    "EventName": "RUN IT TWICE",
+    "Rank": 3,
+    "PlayerName": "SUN KAI YI",
+    "PrizePool": 7030,
+    "Entries": 44,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 22,
+    "EventName": "RUN IT TWICE",
+    "Rank": 2,
+    "PlayerName": "HOANG QUANG HUY",
+    "PrizePool": 7030,
+    "Entries": 44,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 22,
+    "EventName": "RUN IT TWICE",
+    "Rank": 1,
+    "PlayerName": "ALEN BAKOVIC",
+    "PrizePool": 7030,
+    "Entries": 44,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 23,
+    "EventName": "HYPER TURBO",
+    "Rank": 9,
+    "PlayerName": "DONG YIXUAN",
+    "PrizePool": 8630,
+    "Entries": 72,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 23,
+    "EventName": "HYPER TURBO",
+    "Rank": 8,
+    "PlayerName": "HU JINGLONG",
+    "PrizePool": 8630,
+    "Entries": 72,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 23,
+    "EventName": "HYPER TURBO",
+    "Rank": 7,
+    "PlayerName": "TAN HING KANG JASON",
+    "PrizePool": 8630,
+    "Entries": 72,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 23,
+    "EventName": "HYPER TURBO",
+    "Rank": 6,
+    "PlayerName": "DING PIN",
+    "PrizePool": 8630,
+    "Entries": 72,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 23,
+    "EventName": "HYPER TURBO",
+    "Rank": 5,
+    "PlayerName": "YUAN XIN",
+    "PrizePool": 8630,
+    "Entries": 72,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 23,
+    "EventName": "HYPER TURBO",
+    "Rank": 4,
+    "PlayerName": "JEONG HYUN WOO",
+    "PrizePool": 8630,
+    "Entries": 72,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 23,
+    "EventName": "HYPER TURBO",
+    "Rank": 3,
+    "PlayerName": "LEE JUNGYEOL",
+    "PrizePool": 8630,
+    "Entries": 72,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 23,
+    "EventName": "HYPER TURBO",
+    "Rank": 2,
+    "PlayerName": "TAN KWANG CHUNG",
+    "PrizePool": 8630,
+    "Entries": 72,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 23,
+    "EventName": "HYPER TURBO",
+    "Rank": 1,
+    "PlayerName": "LEE KOAGHO",
+    "PrizePool": 8630,
+    "Entries": 72,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 24,
+    "EventName": "HIGH ROLLER : MEGASTACK",
+    "Rank": 10,
+    "PlayerName": "PHAM ALAN ANH-MINH",
+    "PrizePool": 394550,
+    "Entries": 141,
+    "BuyInAmount": 3256
+  },
+  {
+    "EventCode": 24,
+    "EventName": "HIGH ROLLER : MEGASTACK",
+    "Rank": 9,
+    "PlayerName": "JEFFREY KUEN-WAI",
+    "PrizePool": 394550,
+    "Entries": 141,
+    "BuyInAmount": 3256
+  },
+  {
+    "EventCode": 24,
+    "EventName": "HIGH ROLLER : MEGASTACK",
+    "Rank": 8,
+    "PlayerName": "PHAM DUY ANH",
+    "PrizePool": 394550,
+    "Entries": 141,
+    "BuyInAmount": 3256
+  },
+  {
+    "EventCode": 24,
+    "EventName": "HIGH ROLLER : MEGASTACK",
+    "Rank": 7,
+    "PlayerName": "JUNG SEUNGMOOK",
+    "PrizePool": 394550,
+    "Entries": 141,
+    "BuyInAmount": 3256
+  },
+  {
+    "EventCode": 24,
+    "EventName": "HIGH ROLLER : MEGASTACK",
+    "Rank": 6,
+    "PlayerName": "SONG DAEWOONG",
+    "PrizePool": 394550,
+    "Entries": 141,
+    "BuyInAmount": 3256
+  },
+  {
+    "EventCode": 24,
+    "EventName": "HIGH ROLLER : MEGASTACK",
+    "Rank": 5,
+    "PlayerName": "TẠ SƠN TÙNG",
+    "PrizePool": 394550,
+    "Entries": 141,
+    "BuyInAmount": 3256
+  },
+  {
+    "EventCode": 24,
+    "EventName": "HIGH ROLLER : MEGASTACK",
+    "Rank": 4,
+    "PlayerName": "LEE DONG JAE",
+    "PrizePool": 394550,
+    "Entries": 141,
+    "BuyInAmount": 3256
+  },
+  {
+    "EventCode": 24,
+    "EventName": "HIGH ROLLER : MEGASTACK",
+    "Rank": 3,
+    "PlayerName": "JUNHYOUNG KI",
+    "PrizePool": 394550,
+    "Entries": 141,
+    "BuyInAmount": 3256
+  },
+  {
+    "EventCode": 24,
+    "EventName": "HIGH ROLLER : MEGASTACK",
+    "Rank": 2,
+    "PlayerName": "WARHURST JULIAN ANDREW",
+    "PrizePool": 394550,
+    "Entries": 141,
+    "BuyInAmount": 3256
+  },
+  {
+    "EventCode": 24,
+    "EventName": "HIGH ROLLER : MEGASTACK",
+    "Rank": 1,
+    "PlayerName": "DO XUAN HUAN",
+    "PrizePool": 394550,
+    "Entries": 141,
+    "BuyInAmount": 3256
+  },
+  {
+    "EventCode": 25,
+    "EventName": "PLO KNOCKOUT",
+    "Rank": 6,
+    "PlayerName": "KISHIMOTO KAORU",
+    "PrizePool": 21430,
+    "Entries": 43,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 25,
+    "EventName": "PLO KNOCKOUT",
+    "Rank": 5,
+    "PlayerName": "ROZOVA NATALIA",
+    "PrizePool": 21430,
+    "Entries": 43,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 25,
+    "EventName": "PLO KNOCKOUT",
+    "Rank": 4,
+    "PlayerName": "LIANG SHENGWEI",
+    "PrizePool": 21430,
+    "Entries": 43,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 25,
+    "EventName": "PLO KNOCKOUT",
+    "Rank": 3,
+    "PlayerName": "CHO MIN HO",
+    "PrizePool": 21430,
+    "Entries": 43,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 25,
+    "EventName": "PLO KNOCKOUT",
+    "Rank": 2,
+    "PlayerName": "DANIEL PATRICK",
+    "PrizePool": 21430,
+    "Entries": 43,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 25,
+    "EventName": "PLO KNOCKOUT",
+    "Rank": 1,
+    "PlayerName": "HAYWOOD DANIEL ADAM",
+    "PrizePool": 21430,
+    "Entries": 43,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 26,
+    "EventName": "TURBO",
+    "Rank": 7,
+    "PlayerName": "CHUN MING LAU",
+    "PrizePool": 8790,
+    "Entries": 55,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 26,
+    "EventName": "TURBO",
+    "Rank": 6,
+    "PlayerName": "DASHDONDOG",
+    "PrizePool": 8790,
+    "Entries": 55,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 26,
+    "EventName": "TURBO",
+    "Rank": 5,
+    "PlayerName": "RUNGROT NUANNOI",
+    "PrizePool": 8790,
+    "Entries": 55,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 26,
+    "EventName": "TURBO",
+    "Rank": 4,
+    "PlayerName": "NG TSUN YIN",
+    "PrizePool": 8790,
+    "Entries": 55,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 26,
+    "EventName": "TURBO",
+    "Rank": 3,
+    "PlayerName": "DANIL ARATTCEV",
+    "PrizePool": 8790,
+    "Entries": 55,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 26,
+    "EventName": "TURBO",
+    "Rank": 2,
+    "PlayerName": "BEGWANI ROHIT",
+    "PrizePool": 8790,
+    "Entries": 55,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 26,
+    "EventName": "TURBO",
+    "Rank": 1,
+    "PlayerName": "LIEW YEW TONG",
+    "PrizePool": 8790,
+    "Entries": 55,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 27,
+    "EventName": "CRAZY PINEAPPLE",
+    "Rank": 4,
+    "PlayerName": "TSANG KA SHUN",
+    "PrizePool": 6950,
+    "Entries": 29,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 27,
+    "EventName": "CRAZY PINEAPPLE",
+    "Rank": 3,
+    "PlayerName": "KRISHNA WADEESIRAK",
+    "PrizePool": 6950,
+    "Entries": 29,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 27,
+    "EventName": "CRAZY PINEAPPLE",
+    "Rank": 2,
+    "PlayerName": "ERMIN IVAN",
+    "PrizePool": 6950,
+    "Entries": 29,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 27,
+    "EventName": "CRAZY PINEAPPLE",
+    "Rank": 1,
+    "PlayerName": "YOUJIN JANG",
+    "PrizePool": 6950,
+    "Entries": 29,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 28,
+    "EventName": "HEADS UP CHALLENGE",
+    "Rank": 4,
+    "PlayerName": "VUJANIC TANJA",
+    "PrizePool": 45570,
+    "Entries": 38,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 28,
+    "EventName": "HEADS UP CHALLENGE",
+    "Rank": 3,
+    "PlayerName": "VITALIYA VIKTOROVNA",
+    "PrizePool": 45570,
+    "Entries": 38,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 28,
+    "EventName": "HEADS UP CHALLENGE",
+    "Rank": 2,
+    "PlayerName": "CHANG YU-CHUNG",
+    "PrizePool": 45570,
+    "Entries": 38,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 28,
+    "EventName": "HEADS UP CHALLENGE",
+    "Rank": 1,
+    "PlayerName": "LIM YOHWAN",
+    "PrizePool": 45570,
+    "Entries": 38,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 29,
+    "EventName": "MIDWEEK SUPERSTACK",
+    "Rank": 10,
+    "PlayerName": "LEE JUYEOL",
+    "PrizePool": 103130,
+    "Entries": 258,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 29,
+    "EventName": "MIDWEEK SUPERSTACK",
+    "Rank": 9,
+    "PlayerName": "NGUYEN PHUONG NGOC",
+    "PrizePool": 103130,
+    "Entries": 258,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 29,
+    "EventName": "MIDWEEK SUPERSTACK",
+    "Rank": 8,
+    "PlayerName": "LIM SHENG WEI",
+    "PrizePool": 103130,
+    "Entries": 258,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 29,
+    "EventName": "MIDWEEK SUPERSTACK",
+    "Rank": 7,
+    "PlayerName": "NGO QUOC PHU",
+    "PrizePool": 103130,
+    "Entries": 258,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 29,
+    "EventName": "MIDWEEK SUPERSTACK",
+    "Rank": 6,
+    "PlayerName": "PHAM NGOC QUOC BAO",
+    "PrizePool": 103130,
+    "Entries": 258,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 29,
+    "EventName": "MIDWEEK SUPERSTACK",
+    "Rank": 5,
+    "PlayerName": "QIU QUAN",
+    "PrizePool": 103130,
+    "Entries": 258,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 29,
+    "EventName": "MIDWEEK SUPERSTACK",
+    "Rank": 4,
+    "PlayerName": "LITASOV VLADIMIR",
+    "PrizePool": 103130,
+    "Entries": 258,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 29,
+    "EventName": "MIDWEEK SUPERSTACK",
+    "Rank": 3,
+    "PlayerName": "KIWANONT MR.SUKHUM",
+    "PrizePool": 103130,
+    "Entries": 258,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 29,
+    "EventName": "MIDWEEK SUPERSTACK",
+    "Rank": 2,
+    "PlayerName": "HUYNH NGOC THAI",
+    "PrizePool": 103130,
+    "Entries": 258,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 29,
+    "EventName": "MIDWEEK SUPERSTACK",
+    "Rank": 1,
+    "PlayerName": "PHAM SONG HAU",
+    "PrizePool": 103130,
+    "Entries": 258,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 30,
+    "EventName": "SUPER HIGH ROLLER",
+    "Rank": 10,
+    "PlayerName": "SUNG WOOJIN",
+    "PrizePool": 566050,
+    "Entries": 177,
+    "BuyInAmount": 3721
+  },
+  {
+    "EventCode": 30,
+    "EventName": "SUPER HIGH ROLLER",
+    "Rank": 9,
+    "PlayerName": "OH JUN SEOK",
+    "PrizePool": 566050,
+    "Entries": 177,
+    "BuyInAmount": 3721
+  },
+  {
+    "EventCode": 30,
+    "EventName": "SUPER HIGH ROLLER",
+    "Rank": 8,
+    "PlayerName": "OJHA VISHAL",
+    "PrizePool": 566050,
+    "Entries": 177,
+    "BuyInAmount": 3721
+  },
+  {
+    "EventCode": 30,
+    "EventName": "SUPER HIGH ROLLER",
+    "Rank": 7,
+    "PlayerName": "CHEN MOYAN",
+    "PrizePool": 566050,
+    "Entries": 177,
+    "BuyInAmount": 3721
+  },
+  {
+    "EventCode": 30,
+    "EventName": "SUPER HIGH ROLLER",
+    "Rank": 6,
+    "PlayerName": "SUA SHUNG ER",
+    "PrizePool": 566050,
+    "Entries": 177,
+    "BuyInAmount": 3721
+  },
+  {
+    "EventCode": 30,
+    "EventName": "SUPER HIGH ROLLER",
+    "Rank": 5,
+    "PlayerName": "JIA WILLIAM",
+    "PrizePool": 566050,
+    "Entries": 177,
+    "BuyInAmount": 3721
+  },
+  {
+    "EventCode": 30,
+    "EventName": "SUPER HIGH ROLLER",
+    "Rank": 4,
+    "PlayerName": "TSAI TING-YI",
+    "PrizePool": 566050,
+    "Entries": 177,
+    "BuyInAmount": 3721
+  },
+  {
+    "EventCode": 30,
+    "EventName": "SUPER HIGH ROLLER",
+    "Rank": 3,
+    "PlayerName": "ROMAIN DOURS",
+    "PrizePool": 566050,
+    "Entries": 177,
+    "BuyInAmount": 3721
+  },
+  {
+    "EventCode": 30,
+    "EventName": "SUPER HIGH ROLLER",
+    "Rank": 2,
+    "PlayerName": "CHOONG YITA",
+    "PrizePool": 566050,
+    "Entries": 177,
+    "BuyInAmount": 3721
+  },
+  {
+    "EventCode": 30,
+    "EventName": "SUPER HIGH ROLLER",
+    "Rank": 1,
+    "PlayerName": "SONG LI",
+    "PrizePool": 566050,
+    "Entries": 177,
+    "BuyInAmount": 3721
+  },
+  {
+    "EventCode": 31,
+    "EventName": "POT LIMIT OMAHA",
+    "Rank": 10,
+    "PlayerName": "SUN KAI YI",
+    "PrizePool": 27820,
+    "Entries": 87,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 31,
+    "EventName": "POT LIMIT OMAHA",
+    "Rank": 9,
+    "PlayerName": "WONG CHARLES YING WAI",
+    "PrizePool": 27820,
+    "Entries": 87,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 31,
+    "EventName": "POT LIMIT OMAHA",
+    "Rank": 8,
+    "PlayerName": "BEGWANI ROHIT",
+    "PrizePool": 27820,
+    "Entries": 87,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 31,
+    "EventName": "POT LIMIT OMAHA",
+    "Rank": 7,
+    "PlayerName": "TONG JIA CHUAN",
+    "PrizePool": 27820,
+    "Entries": 87,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 31,
+    "EventName": "POT LIMIT OMAHA",
+    "Rank": 6,
+    "PlayerName": "LIM BENG WEI",
+    "PrizePool": 27820,
+    "Entries": 87,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 31,
+    "EventName": "POT LIMIT OMAHA",
+    "Rank": 5,
+    "PlayerName": "NGUYEN HUU VINH",
+    "PrizePool": 27820,
+    "Entries": 87,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 31,
+    "EventName": "POT LIMIT OMAHA",
+    "Rank": 4,
+    "PlayerName": "MICHAEL O'NEIL",
+    "PrizePool": 27820,
+    "Entries": 87,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 31,
+    "EventName": "POT LIMIT OMAHA",
+    "Rank": 3,
+    "PlayerName": "DONG VAN TAN",
+    "PrizePool": 27820,
+    "Entries": 87,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 31,
+    "EventName": "POT LIMIT OMAHA",
+    "Rank": 2,
+    "PlayerName": "NORIETIS ROLANDS",
+    "PrizePool": 27820,
+    "Entries": 87,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 31,
+    "EventName": "POT LIMIT OMAHA",
+    "Rank": 1,
+    "PlayerName": "ROZOVA NATALIA",
+    "PrizePool": 27820,
+    "Entries": 87,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 32,
+    "EventName": "FREEZEOUT",
+    "Rank": 10,
+    "PlayerName": "HIROKAZU OHKIDO",
+    "PrizePool": 25740,
+    "Entries": 161,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 32,
+    "EventName": "FREEZEOUT",
+    "Rank": 9,
+    "PlayerName": "KIM SEONGGWON",
+    "PrizePool": 25740,
+    "Entries": 161,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 32,
+    "EventName": "FREEZEOUT",
+    "Rank": 8,
+    "PlayerName": "AYOUNG NA",
+    "PrizePool": 25740,
+    "Entries": 161,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 32,
+    "EventName": "FREEZEOUT",
+    "Rank": 7,
+    "PlayerName": "SEO YOUNGWUK",
+    "PrizePool": 25740,
+    "Entries": 161,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 32,
+    "EventName": "FREEZEOUT",
+    "Rank": 6,
+    "PlayerName": "SEONGWON HEO",
+    "PrizePool": 25740,
+    "Entries": 161,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 32,
+    "EventName": "FREEZEOUT",
+    "Rank": 5,
+    "PlayerName": "PARK SOORIN",
+    "PrizePool": 25740,
+    "Entries": 161,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 32,
+    "EventName": "FREEZEOUT",
+    "Rank": 4,
+    "PlayerName": "ANG JEK CHENG",
+    "PrizePool": 25740,
+    "Entries": 161,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 32,
+    "EventName": "FREEZEOUT",
+    "Rank": 3,
+    "PlayerName": "KITTIPAT POOCHANEEYYANGKOON",
+    "PrizePool": 25740,
+    "Entries": 161,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 32,
+    "EventName": "FREEZEOUT",
+    "Rank": 2,
+    "PlayerName": "JEORGE LAGATUZ",
+    "PrizePool": 25740,
+    "Entries": 161,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 32,
+    "EventName": "FREEZEOUT",
+    "Rank": 1,
+    "PlayerName": "TY DELFINO",
+    "PrizePool": 25740,
+    "Entries": 161,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 33,
+    "EventName": "########",
+    "Rank": 7,
+    "PlayerName": "LEE KUN HAN",
+    "PrizePool": 6350,
+    "Entries": 53,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 33,
+    "EventName": "########",
+    "Rank": 6,
+    "PlayerName": "DO LAN CHI",
+    "PrizePool": 6350,
+    "Entries": 53,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 33,
+    "EventName": "########",
+    "Rank": 5,
+    "PlayerName": "LEONOV ANDREY",
+    "PrizePool": 6350,
+    "Entries": 53,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 33,
+    "EventName": "########",
+    "Rank": 4,
+    "PlayerName": "NG SHUN HONG",
+    "PrizePool": 6350,
+    "Entries": 53,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 33,
+    "EventName": "########",
+    "Rank": 3,
+    "PlayerName": "TAN TONG",
+    "PrizePool": 6350,
+    "Entries": 53,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 33,
+    "EventName": "########",
+    "Rank": 2,
+    "PlayerName": "TA SON TUNG",
+    "PrizePool": 6350,
+    "Entries": 53,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 33,
+    "EventName": "########",
+    "Rank": 1,
+    "PlayerName": "ANDREW ROBERT HAWES",
+    "PrizePool": 6350,
+    "Entries": 53,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 34,
+    "EventName": "MAIN EVENT",
+    "Rank": 10,
+    "PlayerName": "HUH SEONG UK",
+    "PrizePool": 1434020,
+    "Entries": 1595,
+    "BuyInAmount": 1057
+  },
+  {
+    "EventCode": 34,
+    "EventName": "MAIN EVENT",
+    "Rank": 9,
+    "PlayerName": "KONSTANTIN HELD",
+    "PrizePool": 1434020,
+    "Entries": 1595,
+    "BuyInAmount": 1057
+  },
+  {
+    "EventCode": 34,
+    "EventName": "MAIN EVENT",
+    "Rank": 8,
+    "PlayerName": "HOANG HAI NAM",
+    "PrizePool": 1434020,
+    "Entries": 1595,
+    "BuyInAmount": 1057
+  },
+  {
+    "EventCode": 34,
+    "EventName": "MAIN EVENT",
+    "Rank": 7,
+    "PlayerName": "LU NING",
+    "PrizePool": 1434020,
+    "Entries": 1595,
+    "BuyInAmount": 1057
+  },
+  {
+    "EventCode": 34,
+    "EventName": "MAIN EVENT",
+    "Rank": 6,
+    "PlayerName": "SANGMIN LEE",
+    "PrizePool": 1434020,
+    "Entries": 1595,
+    "BuyInAmount": 1057
+  },
+  {
+    "EventCode": 34,
+    "EventName": "MAIN EVENT",
+    "Rank": 5,
+    "PlayerName": "ZHENG TIANHAO",
+    "PrizePool": 1434020,
+    "Entries": 1595,
+    "BuyInAmount": 1057
+  },
+  {
+    "EventCode": 34,
+    "EventName": "MAIN EVENT",
+    "Rank": 4,
+    "PlayerName": "NGUYEN QUANG HUY",
+    "PrizePool": 1434020,
+    "Entries": 1595,
+    "BuyInAmount": 1057
+  },
+  {
+    "EventCode": 34,
+    "EventName": "MAIN EVENT",
+    "Rank": 3,
+    "PlayerName": "NG TSUN YIN",
+    "PrizePool": 1434020,
+    "Entries": 1595,
+    "BuyInAmount": 1057
+  },
+  {
+    "EventCode": 34,
+    "EventName": "MAIN EVENT",
+    "Rank": 2,
+    "PlayerName": "NGUYEN TRUNG HA",
+    "PrizePool": 1434020,
+    "Entries": 1595,
+    "BuyInAmount": 1057
+  },
+  {
+    "EventCode": 34,
+    "EventName": "MAIN EVENT",
+    "Rank": 1,
+    "PlayerName": "THE NAING",
+    "PrizePool": 1434020,
+    "Entries": 1595,
+    "BuyInAmount": 1057
+  },
+  {
+    "EventCode": 35,
+    "EventName": "BOUNTY EVENT",
+    "Rank": 10,
+    "PlayerName": "LEE HYEOKKI",
+    "PrizePool": 54310,
+    "Entries": 230,
+    "BuyInAmount": 423
+  },
+  {
+    "EventCode": 35,
+    "EventName": "BOUNTY EVENT",
+    "Rank": 9,
+    "PlayerName": "DINH VAN HUY PHUONG",
+    "PrizePool": 54310,
+    "Entries": 230,
+    "BuyInAmount": 423
+  },
+  {
+    "EventCode": 35,
+    "EventName": "BOUNTY EVENT",
+    "Rank": 8,
+    "PlayerName": "NGUYEN NAM LONG",
+    "PrizePool": 54310,
+    "Entries": 230,
+    "BuyInAmount": 423
+  },
+  {
+    "EventCode": 35,
+    "EventName": "BOUNTY EVENT",
+    "Rank": 7,
+    "PlayerName": "LERTPHOKHANON N-RAK",
+    "PrizePool": 54310,
+    "Entries": 230,
+    "BuyInAmount": 423
+  },
+  {
+    "EventCode": 35,
+    "EventName": "BOUNTY EVENT",
+    "Rank": 6,
+    "PlayerName": "LIM SHENG WEI",
+    "PrizePool": 54310,
+    "Entries": 230,
+    "BuyInAmount": 423
+  },
+  {
+    "EventCode": 35,
+    "EventName": "BOUNTY EVENT",
+    "Rank": 5,
+    "PlayerName": "KIM BOSUB",
+    "PrizePool": 54310,
+    "Entries": 230,
+    "BuyInAmount": 423
+  },
+  {
+    "EventCode": 35,
+    "EventName": "BOUNTY EVENT",
+    "Rank": 4,
+    "PlayerName": "LE HAI NAM",
+    "PrizePool": 54310,
+    "Entries": 230,
+    "BuyInAmount": 423
+  },
+  {
+    "EventCode": 35,
+    "EventName": "BOUNTY EVENT",
+    "Rank": 3,
+    "PlayerName": "BAOQIANG CHENG",
+    "PrizePool": 54310,
+    "Entries": 230,
+    "BuyInAmount": 423
+  },
+  {
+    "EventCode": 35,
+    "EventName": "BOUNTY EVENT",
+    "Rank": 2,
+    "PlayerName": "PHAM NGOC QUOC BAO",
+    "PrizePool": 54310,
+    "Entries": 230,
+    "BuyInAmount": 423
+  },
+  {
+    "EventCode": 35,
+    "EventName": "BOUNTY EVENT",
+    "Rank": 1,
+    "PlayerName": "NGUYEN KHOI",
+    "PrizePool": 54310,
+    "Entries": 230,
+    "BuyInAmount": 423
+  },
+  {
+    "EventCode": 36,
+    "EventName": "WOMEN'S EVENT",
+    "Rank": 6,
+    "PlayerName": "NGUYEN THI THAO",
+    "PrizePool": 7515,
+    "Entries": 47,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 36,
+    "EventName": "WOMEN'S EVENT",
+    "Rank": 5,
+    "PlayerName": "VITALIYA VIKTOROVNA",
+    "PrizePool": 7515,
+    "Entries": 47,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 36,
+    "EventName": "WOMEN'S EVENT",
+    "Rank": 4,
+    "PlayerName": "CHAN YU-HSUAN",
+    "PrizePool": 7515,
+    "Entries": 47,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 36,
+    "EventName": "WOMEN'S EVENT",
+    "Rank": 3,
+    "PlayerName": "MIN YUJUNG",
+    "PrizePool": 7515,
+    "Entries": 47,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 36,
+    "EventName": "WOMEN'S EVENT",
+    "Rank": 2,
+    "PlayerName": "CHOI EUNYOUNG",
+    "PrizePool": 7515,
+    "Entries": 47,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 36,
+    "EventName": "WOMEN'S EVENT",
+    "Rank": 1,
+    "PlayerName": "LIN HUA WEI",
+    "PrizePool": 7515,
+    "Entries": 47,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 37,
+    "EventName": "5-CARD PLO",
+    "Rank": 10,
+    "PlayerName": "CHAN SHENG WEI",
+    "PrizePool": 17100,
+    "Entries": 107,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 37,
+    "EventName": "5-CARD PLO",
+    "Rank": 9,
+    "PlayerName": "NEVILLE PAUL STEPHAN",
+    "PrizePool": 17100,
+    "Entries": 107,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 37,
+    "EventName": "5-CARD PLO",
+    "Rank": 8,
+    "PlayerName": "VOONG ANUY",
+    "PrizePool": 17100,
+    "Entries": 107,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 37,
+    "EventName": "5-CARD PLO",
+    "Rank": 7,
+    "PlayerName": "TRUONG THIEN PHUC",
+    "PrizePool": 17100,
+    "Entries": 107,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 37,
+    "EventName": "5-CARD PLO",
+    "Rank": 6,
+    "PlayerName": "PHAM SONG HAU",
+    "PrizePool": 17100,
+    "Entries": 107,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 37,
+    "EventName": "5-CARD PLO",
+    "Rank": 5,
+    "PlayerName": "DUONG TRUNG THUY",
+    "PrizePool": 17100,
+    "Entries": 107,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 37,
+    "EventName": "5-CARD PLO",
+    "Rank": 4,
+    "PlayerName": "TEOH MING HONG",
+    "PrizePool": 17100,
+    "Entries": 107,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 37,
+    "EventName": "5-CARD PLO",
+    "Rank": 3,
+    "PlayerName": "MAI THANH SON",
+    "PrizePool": 17100,
+    "Entries": 107,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 37,
+    "EventName": "5-CARD PLO",
+    "Rank": 2,
+    "PlayerName": "MAN CHUNG TSUI",
+    "PrizePool": 17100,
+    "Entries": 107,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 37,
+    "EventName": "5-CARD PLO",
+    "Rank": 1,
+    "PlayerName": "DONG YIXUAN",
+    "PrizePool": 17100,
+    "Entries": 107,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 38,
+    "EventName": "HYPER TURBO",
+    "Rank": 10,
+    "PlayerName": "TAN WAH MENG",
+    "PrizePool": 21100,
+    "Entries": 176,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 38,
+    "EventName": "HYPER TURBO",
+    "Rank": 9,
+    "PlayerName": "ONG BENG WEI",
+    "PrizePool": 21100,
+    "Entries": 176,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 38,
+    "EventName": "HYPER TURBO",
+    "Rank": 8,
+    "PlayerName": "LI I-TING",
+    "PrizePool": 21100,
+    "Entries": 176,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 38,
+    "EventName": "HYPER TURBO",
+    "Rank": 7,
+    "PlayerName": "JO JONGNAM",
+    "PrizePool": 21100,
+    "Entries": 176,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 38,
+    "EventName": "HYPER TURBO",
+    "Rank": 6,
+    "PlayerName": "NGUYEN VAN SON",
+    "PrizePool": 21100,
+    "Entries": 176,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 38,
+    "EventName": "HYPER TURBO",
+    "Rank": 5,
+    "PlayerName": "SEOKJIN HWANG",
+    "PrizePool": 21100,
+    "Entries": 176,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 38,
+    "EventName": "HYPER TURBO",
+    "Rank": 4,
+    "PlayerName": "KIM MINCHUN",
+    "PrizePool": 21100,
+    "Entries": 176,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 38,
+    "EventName": "HYPER TURBO",
+    "Rank": 3,
+    "PlayerName": "HYEON JUHEON",
+    "PrizePool": 21100,
+    "Entries": 176,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 38,
+    "EventName": "HYPER TURBO",
+    "Rank": 2,
+    "PlayerName": "CHEN WL",
+    "PrizePool": 21100,
+    "Entries": 176,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 38,
+    "EventName": "HYPER TURBO",
+    "Rank": 1,
+    "PlayerName": "ROMAN VOITOVICH",
+    "PrizePool": 21100,
+    "Entries": 176,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 39,
+    "EventName": "BILLIONAIRE CLUB CHALLENGE",
+    "Rank": 10,
+    "PlayerName": "LEE JIN HOON",
+    "PrizePool": 690770,
+    "Entries": 72,
+    "BuyInAmount": 10571
+  },
+  {
+    "EventCode": 39,
+    "EventName": "BILLIONAIRE CLUB CHALLENGE",
+    "Rank": 9,
+    "PlayerName": "PHAM ALAN ANH MINH",
+    "PrizePool": 690770,
+    "Entries": 72,
+    "BuyInAmount": 10571
+  },
+  {
+    "EventCode": 39,
+    "EventName": "BILLIONAIRE CLUB CHALLENGE",
+    "Rank": 8,
+    "PlayerName": "JUNG SEUNGMOOK",
+    "PrizePool": 690770,
+    "Entries": 72,
+    "BuyInAmount": 10571
+  },
+  {
+    "EventCode": 39,
+    "EventName": "BILLIONAIRE CLUB CHALLENGE",
+    "Rank": 7,
+    "PlayerName": "KIM HYUN SUP",
+    "PrizePool": 690770,
+    "Entries": 72,
+    "BuyInAmount": 10571
+  },
+  {
+    "EventCode": 39,
+    "EventName": "BILLIONAIRE CLUB CHALLENGE",
+    "Rank": 6,
+    "PlayerName": "PERY JOHN EDWARD",
+    "PrizePool": 690770,
+    "Entries": 72,
+    "BuyInAmount": 10571
+  },
+  {
+    "EventCode": 39,
+    "EventName": "BILLIONAIRE CLUB CHALLENGE",
+    "Rank": 5,
+    "PlayerName": "NGUYEN QUANG HUY",
+    "PrizePool": 690770,
+    "Entries": 72,
+    "BuyInAmount": 10571
+  },
+  {
+    "EventCode": 39,
+    "EventName": "BILLIONAIRE CLUB CHALLENGE",
+    "Rank": 4,
+    "PlayerName": "MCCULLY JOSHUA CURTIS",
+    "PrizePool": 690770,
+    "Entries": 72,
+    "BuyInAmount": 10571
+  },
+  {
+    "EventCode": 39,
+    "EventName": "BILLIONAIRE CLUB CHALLENGE",
+    "Rank": 3,
+    "PlayerName": "LEE HON CHEONG",
+    "PrizePool": 690770,
+    "Entries": 72,
+    "BuyInAmount": 10571
+  },
+  {
+    "EventCode": 39,
+    "EventName": "BILLIONAIRE CLUB CHALLENGE",
+    "Rank": 2,
+    "PlayerName": "KIM NAM HYUNG",
+    "PrizePool": 690770,
+    "Entries": 72,
+    "BuyInAmount": 10571
+  },
+  {
+    "EventCode": 39,
+    "EventName": "BILLIONAIRE CLUB CHALLENGE",
+    "Rank": 1,
+    "PlayerName": "HONG JINHO",
+    "PrizePool": 690770,
+    "Entries": 72,
+    "BuyInAmount": 10571
+  },
+  {
+    "EventCode": 40,
+    "EventName": "MYSTERY RUSH EVENT",
+    "Rank": 10,
+    "PlayerName": "PARK SE HAN",
+    "PrizePool": 70100,
+    "Entries": 220,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 40,
+    "EventName": "MYSTERY RUSH EVENT",
+    "Rank": 9,
+    "PlayerName": "MICHAEL KENNETH BRADSHAW",
+    "PrizePool": 70100,
+    "Entries": 220,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 40,
+    "EventName": "MYSTERY RUSH EVENT",
+    "Rank": 8,
+    "PlayerName": "THOMAS GARY POUND",
+    "PrizePool": 70100,
+    "Entries": 220,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 40,
+    "EventName": "MYSTERY RUSH EVENT",
+    "Rank": 7,
+    "PlayerName": "KIM JINSUNG",
+    "PrizePool": 70100,
+    "Entries": 220,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 40,
+    "EventName": "MYSTERY RUSH EVENT",
+    "Rank": 6,
+    "PlayerName": "SARRAY JAMEL",
+    "PrizePool": 70100,
+    "Entries": 220,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 40,
+    "EventName": "MYSTERY RUSH EVENT",
+    "Rank": 5,
+    "PlayerName": "DUONG TRUNG THUY",
+    "PrizePool": 70100,
+    "Entries": 220,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 40,
+    "EventName": "MYSTERY RUSH EVENT",
+    "Rank": 4,
+    "PlayerName": "WILLIAM KANG",
+    "PrizePool": 70100,
+    "Entries": 220,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 40,
+    "EventName": "MYSTERY RUSH EVENT",
+    "Rank": 3,
+    "PlayerName": "HU JINLONG",
+    "PrizePool": 70100,
+    "Entries": 220,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 40,
+    "EventName": "MYSTERY RUSH EVENT",
+    "Rank": 2,
+    "PlayerName": "SABLANI JATIN",
+    "PrizePool": 70100,
+    "Entries": 220,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 40,
+    "EventName": "MYSTERY RUSH EVENT",
+    "Rank": 1,
+    "PlayerName": "BOOB VINAY",
+    "PrizePool": 70100,
+    "Entries": 220,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 41,
+    "EventName": "TAG TEAM EVENT",
+    "Rank": 9,
+    "PlayerName": "THOMAS WARD",
+    "PrizePool": 41970,
+    "Entries": 140,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 41,
+    "EventName": "TAG TEAM EVENT",
+    "Rank": 8,
+    "PlayerName": "NGUYEN HOANG NAM",
+    "PrizePool": 41970,
+    "Entries": 140,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 41,
+    "EventName": "TAG TEAM EVENT",
+    "Rank": 7,
+    "PlayerName": "TAN ONG KWAN",
+    "PrizePool": 41970,
+    "Entries": 140,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 41,
+    "EventName": "TAG TEAM EVENT",
+    "Rank": 6,
+    "PlayerName": "HUYNH NGOC CUONG",
+    "PrizePool": 41970,
+    "Entries": 140,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 41,
+    "EventName": "TAG TEAM EVENT",
+    "Rank": 5,
+    "PlayerName": "LIM BENG WEI",
+    "PrizePool": 41970,
+    "Entries": 140,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 41,
+    "EventName": "TAG TEAM EVENT",
+    "Rank": 4,
+    "PlayerName": "NGUYEN DUC HOANG",
+    "PrizePool": 41970,
+    "Entries": 140,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 41,
+    "EventName": "TAG TEAM EVENT",
+    "Rank": 3,
+    "PlayerName": "ANTON LU ZHEN ZHAO",
+    "PrizePool": 41970,
+    "Entries": 140,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 41,
+    "EventName": "TAG TEAM EVENT",
+    "Rank": 2,
+    "PlayerName": "NGUYEN NGOC HA",
+    "PrizePool": 41970,
+    "Entries": 140,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 41,
+    "EventName": "TAG TEAM EVENT",
+    "Rank": 1,
+    "PlayerName": "LEE JUNAM",
+    "PrizePool": 41970,
+    "Entries": 140,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 42,
+    "EventName": "TURBO",
+    "Rank": 10,
+    "PlayerName": "TZENG R-GIN",
+    "PrizePool": 27100,
+    "Entries": 113,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 42,
+    "EventName": "TURBO",
+    "Rank": 9,
+    "PlayerName": "CHAN YU HOI",
+    "PrizePool": 27100,
+    "Entries": 113,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 42,
+    "EventName": "TURBO",
+    "Rank": 8,
+    "PlayerName": "CHEN YU CHUN",
+    "PrizePool": 27100,
+    "Entries": 113,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 42,
+    "EventName": "TURBO",
+    "Rank": 7,
+    "PlayerName": "HYUN GEUN SOO",
+    "PrizePool": 27100,
+    "Entries": 113,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 42,
+    "EventName": "TURBO",
+    "Rank": 6,
+    "PlayerName": "KONGKAKATE TACHA",
+    "PrizePool": 27100,
+    "Entries": 113,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 42,
+    "EventName": "TURBO",
+    "Rank": 5,
+    "PlayerName": "NG SHUN HONG",
+    "PrizePool": 27100,
+    "Entries": 113,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 42,
+    "EventName": "TURBO",
+    "Rank": 4,
+    "PlayerName": "MAN CHUNG TSUI",
+    "PrizePool": 27100,
+    "Entries": 113,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 42,
+    "EventName": "TURBO",
+    "Rank": 3,
+    "PlayerName": "YU DAESUN SAMUEL",
+    "PrizePool": 27100,
+    "Entries": 113,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 42,
+    "EventName": "TURBO",
+    "Rank": 2,
+    "PlayerName": "YANNICK LEONARD",
+    "PrizePool": 27100,
+    "Entries": 113,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 42,
+    "EventName": "TURBO",
+    "Rank": 1,
+    "PlayerName": "LIEW YEW TONG",
+    "PrizePool": 27100,
+    "Entries": 113,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 43,
+    "EventName": "DOUBLE BOARD - SINGLE WINNER",
+    "Rank": 5,
+    "PlayerName": "ABHISHEK PAUL",
+    "PrizePool": 6870,
+    "Entries": 43,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 43,
+    "EventName": "DOUBLE BOARD - SINGLE WINNER",
+    "Rank": 4,
+    "PlayerName": "LE VAN BINH",
+    "PrizePool": 6870,
+    "Entries": 43,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 43,
+    "EventName": "DOUBLE BOARD - SINGLE WINNER",
+    "Rank": 3,
+    "PlayerName": "YOUJIN JANG",
+    "PrizePool": 6870,
+    "Entries": 43,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 43,
+    "EventName": "DOUBLE BOARD - SINGLE WINNER",
+    "Rank": 2,
+    "PlayerName": "ERMIN IVAN",
+    "PrizePool": 6870,
+    "Entries": 43,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 43,
+    "EventName": "DOUBLE BOARD - SINGLE WINNER",
+    "Rank": 1,
+    "PlayerName": "MENGHONG ZHANG",
+    "PrizePool": 6870,
+    "Entries": 43,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 44,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 10,
+    "PlayerName": "SHIN WOOSEONG",
+    "PrizePool": 81900,
+    "Entries": 103,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 44,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 9,
+    "PlayerName": "VU VAN THANG",
+    "PrizePool": 81900,
+    "Entries": 103,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 44,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 8,
+    "PlayerName": "NGUYEN HUU VINH",
+    "PrizePool": 81900,
+    "Entries": 103,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 44,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 7,
+    "PlayerName": "NGO QUOC PHU",
+    "PrizePool": 81900,
+    "Entries": 103,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 44,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 6,
+    "PlayerName": "LAU WING YU",
+    "PrizePool": 81900,
+    "Entries": 103,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 44,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 5,
+    "PlayerName": "NGUYEN DUY TUNG",
+    "PrizePool": 81900,
+    "Entries": 103,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 44,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 4,
+    "PlayerName": "NGUYEN TRUNG HA",
+    "PrizePool": 81900,
+    "Entries": 103,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 44,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 3,
+    "PlayerName": "LIAO TING-YU",
+    "PrizePool": 81900,
+    "Entries": 103,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 44,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 2,
+    "PlayerName": "PENG SISHU",
+    "PrizePool": 81900,
+    "Entries": 103,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 44,
+    "EventName": "MINI HIGH ROLLER",
+    "Rank": 1,
+    "PlayerName": "NGO TRONG HIEU",
+    "PrizePool": 81900,
+    "Entries": 103,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 45,
+    "EventName": "6-CARD PLO",
+    "Rank": 8,
+    "PlayerName": "RAWAT RISHAR SINGH",
+    "PrizePool": 13425,
+    "Entries": 61,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 45,
+    "EventName": "6-CARD PLO",
+    "Rank": 7,
+    "PlayerName": "MOUNIAMA YANNICK",
+    "PrizePool": 13425,
+    "Entries": 61,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 45,
+    "EventName": "6-CARD PLO",
+    "Rank": 6,
+    "PlayerName": "KAUSHIK AMIT",
+    "PrizePool": 13425,
+    "Entries": 61,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 45,
+    "EventName": "6-CARD PLO",
+    "Rank": 5,
+    "PlayerName": "SARRAY JAMEL",
+    "PrizePool": 13425,
+    "Entries": 61,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 45,
+    "EventName": "6-CARD PLO",
+    "Rank": 4,
+    "PlayerName": "FARANDA",
+    "PrizePool": 13425,
+    "Entries": 61,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 45,
+    "EventName": "6-CARD PLO",
+    "Rank": 3,
+    "PlayerName": "CHAN YONG SEN",
+    "PrizePool": 13425,
+    "Entries": 61,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 45,
+    "EventName": "6-CARD PLO",
+    "Rank": 2,
+    "PlayerName": "CHAN SHENG WEI",
+    "PrizePool": 13425,
+    "Entries": 61,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 45,
+    "EventName": "6-CARD PLO",
+    "Rank": 1,
+    "PlayerName": "LEE KUN-HAN",
+    "PrizePool": 13425,
+    "Entries": 61,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 46,
+    "EventName": "HYPER TURBO",
+    "Rank": 5,
+    "PlayerName": "JEDIDAH TAN",
+    "PrizePool": 9750,
+    "Entries": 42,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 46,
+    "EventName": "HYPER TURBO",
+    "Rank": 4,
+    "PlayerName": "MAI THANH SON",
+    "PrizePool": 9750,
+    "Entries": 42,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 46,
+    "EventName": "HYPER TURBO",
+    "Rank": 3,
+    "PlayerName": "TAN ONG KWAN",
+    "PrizePool": 9750,
+    "Entries": 42,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 46,
+    "EventName": "HYPER TURBO",
+    "Rank": 2,
+    "PlayerName": "CEMEPEHKO SEMERENKO",
+    "PrizePool": 9750,
+    "Entries": 42,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 46,
+    "EventName": "HYPER TURBO",
+    "Rank": 1,
+    "PlayerName": "JASS CHEW",
+    "PrizePool": 9750,
+    "Entries": 42,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 47,
+    "EventName": "MEGASTACK ",
+    "Rank": 10,
+    "PlayerName": "BERNARD KOH WEI YAO",
+    "PrizePool": 111485,
+    "Entries": 279,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 47,
+    "EventName": "MEGASTACK ",
+    "Rank": 9,
+    "PlayerName": "MICHAEL O'NEIL",
+    "PrizePool": 111485,
+    "Entries": 279,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 47,
+    "EventName": "MEGASTACK ",
+    "Rank": 8,
+    "PlayerName": "NGUYEN THANH HAI",
+    "PrizePool": 111485,
+    "Entries": 279,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 47,
+    "EventName": "MEGASTACK ",
+    "Rank": 7,
+    "PlayerName": "KIM HEE HYUK",
+    "PrizePool": 111485,
+    "Entries": 279,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 47,
+    "EventName": "MEGASTACK ",
+    "Rank": 6,
+    "PlayerName": "PHAM SONG HAU",
+    "PrizePool": 111485,
+    "Entries": 279,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 47,
+    "EventName": "MEGASTACK ",
+    "Rank": 5,
+    "PlayerName": "TAICHI YONEYA",
+    "PrizePool": 111485,
+    "Entries": 279,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 47,
+    "EventName": "MEGASTACK ",
+    "Rank": 4,
+    "PlayerName": "BAOQIANG CHENG",
+    "PrizePool": 111485,
+    "Entries": 279,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 47,
+    "EventName": "MEGASTACK ",
+    "Rank": 3,
+    "PlayerName": "DO TUAN PHONG",
+    "PrizePool": 111485,
+    "Entries": 279,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 47,
+    "EventName": "MEGASTACK ",
+    "Rank": 2,
+    "PlayerName": "BEVIN MATTHEW HENRY",
+    "PrizePool": 111485,
+    "Entries": 279,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 47,
+    "EventName": "MEGASTACK ",
+    "Rank": 1,
+    "PlayerName": "NGUYEN CHI CONG",
+    "PrizePool": 111485,
+    "Entries": 279,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 48,
+    "EventName": "HIGH ROLLER THE FINALE",
+    "Rank": 10,
+    "PlayerName": "NGUYEN ANH MINH",
+    "PrizePool": 457930,
+    "Entries": 191,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 48,
+    "EventName": "HIGH ROLLER THE FINALE",
+    "Rank": 9,
+    "PlayerName": "ANTON LU ZHEN ZHAO",
+    "PrizePool": 457930,
+    "Entries": 191,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 48,
+    "EventName": "HIGH ROLLER THE FINALE",
+    "Rank": 8,
+    "PlayerName": "FOSTER DYLAN WAYNE",
+    "PrizePool": 457930,
+    "Entries": 191,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 48,
+    "EventName": "HIGH ROLLER THE FINALE",
+    "Rank": 7,
+    "PlayerName": "TAN KEAN WEI",
+    "PrizePool": 457930,
+    "Entries": 191,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 48,
+    "EventName": "HIGH ROLLER THE FINALE",
+    "Rank": 6,
+    "PlayerName": "DINH VAN TIEN",
+    "PrizePool": 457930,
+    "Entries": 191,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 48,
+    "EventName": "HIGH ROLLER THE FINALE",
+    "Rank": 5,
+    "PlayerName": "SONG DAEWOONG",
+    "PrizePool": 457930,
+    "Entries": 191,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 48,
+    "EventName": "HIGH ROLLER THE FINALE",
+    "Rank": 4,
+    "PlayerName": "DOAN QUANG TRUNG",
+    "PrizePool": 457930,
+    "Entries": 191,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 48,
+    "EventName": "HIGH ROLLER THE FINALE",
+    "Rank": 3,
+    "PlayerName": "CHEUNG PARK YU",
+    "PrizePool": 457930,
+    "Entries": 191,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 48,
+    "EventName": "HIGH ROLLER THE FINALE",
+    "Rank": 2,
+    "PlayerName": "DANG VAN HIEN",
+    "PrizePool": 457930,
+    "Entries": 191,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 48,
+    "EventName": "HIGH ROLLER THE FINALE",
+    "Rank": 1,
+    "PlayerName": "DINH DUC LINH",
+    "PrizePool": 457930,
+    "Entries": 191,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 49,
+    "EventName": "MIXED NLH/PLO",
+    "Rank": 8,
+    "PlayerName": "YAO YADI",
+    "PrizePool": 13185,
+    "Entries": 66,
+    "BuyInAmount": 233
+  },
+  {
+    "EventCode": 49,
+    "EventName": "MIXED NLH/PLO",
+    "Rank": 7,
+    "PlayerName": "HAYWOOD DANIEL ADAM",
+    "PrizePool": 13185,
+    "Entries": 66,
+    "BuyInAmount": 233
+  },
+  {
+    "EventCode": 49,
+    "EventName": "MIXED NLH/PLO",
+    "Rank": 6,
+    "PlayerName": "ALEN BAKOVIC",
+    "PrizePool": 13185,
+    "Entries": 66,
+    "BuyInAmount": 233
+  },
+  {
+    "EventCode": 49,
+    "EventName": "MIXED NLH/PLO",
+    "Rank": 5,
+    "PlayerName": "MAI THANH SON",
+    "PrizePool": 13185,
+    "Entries": 66,
+    "BuyInAmount": 233
+  },
+  {
+    "EventCode": 49,
+    "EventName": "MIXED NLH/PLO",
+    "Rank": 4,
+    "PlayerName": "GAVIN MARK FLYNN",
+    "PrizePool": 13185,
+    "Entries": 66,
+    "BuyInAmount": 233
+  },
+  {
+    "EventCode": 49,
+    "EventName": "MIXED NLH/PLO",
+    "Rank": 3,
+    "PlayerName": "ONG BENG WEI",
+    "PrizePool": 13185,
+    "Entries": 66,
+    "BuyInAmount": 233
+  },
+  {
+    "EventCode": 49,
+    "EventName": "MIXED NLH/PLO",
+    "Rank": 2,
+    "PlayerName": "SUN KAI YI",
+    "PrizePool": 13185,
+    "Entries": 66,
+    "BuyInAmount": 233
+  },
+  {
+    "EventCode": 49,
+    "EventName": "MIXED NLH/PLO",
+    "Rank": 1,
+    "PlayerName": "KANG WONGYU",
+    "PrizePool": 13185,
+    "Entries": 66,
+    "BuyInAmount": 233
+  },
+  {
+    "EventCode": 50,
+    "EventName": "HYPER TURBO",
+    "Rank": 8,
+    "PlayerName": "TAN HING KANG JASON",
+    "PrizePool": 8030,
+    "Entries": 67,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 50,
+    "EventName": "HYPER TURBO",
+    "Rank": 7,
+    "PlayerName": "JEDIDAH TAN",
+    "PrizePool": 8030,
+    "Entries": 67,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 50,
+    "EventName": "HYPER TURBO",
+    "Rank": 6,
+    "PlayerName": "YANG YA CHU",
+    "PrizePool": 8030,
+    "Entries": 67,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 50,
+    "EventName": "HYPER TURBO",
+    "Rank": 5,
+    "PlayerName": "SURIYO PHATCHARAPON",
+    "PrizePool": 8030,
+    "Entries": 67,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 50,
+    "EventName": "HYPER TURBO",
+    "Rank": 4,
+    "PlayerName": "SKULGUNBUNDIT",
+    "PrizePool": 8030,
+    "Entries": 67,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 50,
+    "EventName": "HYPER TURBO",
+    "Rank": 3,
+    "PlayerName": "CHEN JUI HUNG",
+    "PrizePool": 8030,
+    "Entries": 67,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 50,
+    "EventName": "HYPER TURBO",
+    "Rank": 2,
+    "PlayerName": "MEI XIAOHAN",
+    "PrizePool": 8030,
+    "Entries": 67,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 50,
+    "EventName": "HYPER TURBO",
+    "Rank": 1,
+    "PlayerName": "BEGWANI ROHIT",
+    "PrizePool": 8030,
+    "Entries": 67,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 51,
+    "EventName": "THE CLOSER",
+    "Rank": 10,
+    "PlayerName": "PARK HYUNKYU",
+    "PrizePool": 44830,
+    "Entries": 187,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 51,
+    "EventName": "THE CLOSER",
+    "Rank": 9,
+    "PlayerName": "YANNICK LEONARD",
+    "PrizePool": 44830,
+    "Entries": 187,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 51,
+    "EventName": "THE CLOSER",
+    "Rank": 8,
+    "PlayerName": "HU KAI HUNG",
+    "PrizePool": 44830,
+    "Entries": 187,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 51,
+    "EventName": "THE CLOSER",
+    "Rank": 7,
+    "PlayerName": "KIM YONGDAE",
+    "PrizePool": 44830,
+    "Entries": 187,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 51,
+    "EventName": "THE CLOSER",
+    "Rank": 6,
+    "PlayerName": "AMARJARGAL BATTULGA",
+    "PrizePool": 44830,
+    "Entries": 187,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 51,
+    "EventName": "THE CLOSER",
+    "Rank": 5,
+    "PlayerName": "NGUYEN VU LAM",
+    "PrizePool": 44830,
+    "Entries": 187,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 51,
+    "EventName": "THE CLOSER",
+    "Rank": 4,
+    "PlayerName": "CHEN JUI HUNG",
+    "PrizePool": 44830,
+    "Entries": 187,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 51,
+    "EventName": "THE CLOSER",
+    "Rank": 3,
+    "PlayerName": "BERNARD KOH WEI YAO",
+    "PrizePool": 44830,
+    "Entries": 187,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 51,
+    "EventName": "THE CLOSER",
+    "Rank": 2,
+    "PlayerName": "SUKUMAR LETCHMUNAN",
+    "PrizePool": 44830,
+    "Entries": 187,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 51,
+    "EventName": "THE CLOSER",
+    "Rank": 1,
+    "PlayerName": "PATEL CHIRAAG",
+    "PrizePool": 44830,
+    "Entries": 187,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 52,
+    "EventName": "HIGH ROLLER : LAST CHANCE",
+    "Rank": 10,
+    "PlayerName": "GABRIEL CARTER",
+    "PrizePool": 125870,
+    "Entries": 105,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 52,
+    "EventName": "HIGH ROLLER : LAST CHANCE",
+    "Rank": 9,
+    "PlayerName": "YEH HUNG WEI",
+    "PrizePool": 125870,
+    "Entries": 105,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 52,
+    "EventName": "HIGH ROLLER : LAST CHANCE",
+    "Rank": 8,
+    "PlayerName": "LE NHU AN",
+    "PrizePool": 125870,
+    "Entries": 105,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 52,
+    "EventName": "HIGH ROLLER : LAST CHANCE",
+    "Rank": 7,
+    "PlayerName": "HE JUNJIE",
+    "PrizePool": 125870,
+    "Entries": 105,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 52,
+    "EventName": "HIGH ROLLER : LAST CHANCE",
+    "Rank": 6,
+    "PlayerName": "LEE JIN HOON",
+    "PrizePool": 125870,
+    "Entries": 105,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 52,
+    "EventName": "HIGH ROLLER : LAST CHANCE",
+    "Rank": 5,
+    "PlayerName": "GUY TAYLOR",
+    "PrizePool": 125870,
+    "Entries": 105,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 52,
+    "EventName": "HIGH ROLLER : LAST CHANCE",
+    "Rank": 4,
+    "PlayerName": "DINH TIEN THANH",
+    "PrizePool": 125870,
+    "Entries": 105,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 52,
+    "EventName": "HIGH ROLLER : LAST CHANCE",
+    "Rank": 3,
+    "PlayerName": "HA MANH TUONG",
+    "PrizePool": 125870,
+    "Entries": 105,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 52,
+    "EventName": "HIGH ROLLER : LAST CHANCE",
+    "Rank": 2,
+    "PlayerName": "HUH SEONG UK",
+    "PrizePool": 125870,
+    "Entries": 105,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 52,
+    "EventName": "HIGH ROLLER : LAST CHANCE",
+    "Rank": 1,
+    "PlayerName": "PERY JOHN EDWARD",
+    "PrizePool": 125870,
+    "Entries": 105,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 53,
+    "EventName": "SHORT DECK TURBO",
+    "Rank": 6,
+    "PlayerName": "SABLANI JATIN",
+    "PrizePool": 7190,
+    "Entries": 45,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 53,
+    "EventName": "SHORT DECK TURBO",
+    "Rank": 5,
+    "PlayerName": "PHAM SONG HAU",
+    "PrizePool": 7190,
+    "Entries": 45,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 53,
+    "EventName": "SHORT DECK TURBO",
+    "Rank": 4,
+    "PlayerName": "BEGWANI ROHIT",
+    "PrizePool": 7190,
+    "Entries": 45,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 53,
+    "EventName": "SHORT DECK TURBO",
+    "Rank": 3,
+    "PlayerName": "ALEN BAKOVIC",
+    "PrizePool": 7190,
+    "Entries": 45,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 53,
+    "EventName": "SHORT DECK TURBO",
+    "Rank": 2,
+    "PlayerName": "CHAN SHENG WEI",
+    "PrizePool": 7190,
+    "Entries": 45,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 53,
+    "EventName": "SHORT DECK TURBO",
+    "Rank": 1,
+    "PlayerName": "LIEW YEW TONG",
+    "PrizePool": 7190,
+    "Entries": 45,
+    "BuyInAmount": 190
+  }
+]

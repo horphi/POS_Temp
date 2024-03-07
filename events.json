@@ -1,0 +1,320 @@
+[
+  {
+    "EventCode": 1,
+    "Name": "MYSTERRY BOUNTY 11M ",
+    "PrizePool": 227055,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 2,
+    "Name": "HIGH ROLLER : WARM UP",
+    "PrizePool": 203000,
+    "BuyInAmount": 1860
+  },
+  {
+    "EventCode": 3,
+    "Name": "DEEPSTACK",
+    "PrizePool": 16000,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 4,
+    "Name": "MINI HIGH ROLLER",
+    "PrizePool": 49570,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 5,
+    "Name": "TURBO",
+    "PrizePool": 9600,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 6,
+    "Name": "SHORT DECK - HYPER TURBO",
+    "PrizePool": 2560,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 7,
+    "Name": "HIGH ROLLER FOR RED CROSS",
+    "PrizePool": 240800,
+    "BuyInAmount": 2326
+  },
+  {
+    "EventCode": 8,
+    "Name": "BIG BOUNTY",
+    "PrizePool": 9870,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 9,
+    "Name": "MINI HIGH ROLLER",
+    "PrizePool": 30380,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 10,
+    "Name": "POT LIMIT OMAHA - TURBO",
+    "PrizePool": 6400,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 11,
+    "Name": "HYPER TURBO",
+    "PrizePool": 8630,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 12,
+    "Name": "SUNDAY SUPERSTACK",
+    "PrizePool": 71000,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 13,
+    "Name": "SUPERSTAR CHALLENGE",
+    "PrizePool": 595470,
+    "BuyInAmount": 5074
+  },
+  {
+    "EventCode": 14,
+    "Name": "SHORT DECK",
+    "PrizePool": 10390,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 15,
+    "Name": "MINI HIGH ROLLER",
+    "PrizePool": 46370,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 16,
+    "Name": "TURBO",
+    "PrizePool": 15350,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 17,
+    "Name": "BOUNTY HUNTER - TURBO",
+    "PrizePool": 10340,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 18,
+    "Name": "MINI MAIN EVENT",
+    "PrizePool": 300940,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 19,
+    "Name": "HIGH ROLLER : BOUNTY HUNTER",
+    "PrizePool": 253465,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 20,
+    "Name": "PROGRESSIVE KNOCKOUT",
+    "PrizePool": 8130,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 21,
+    "Name": "MINI HIGH ROLLER",
+    "PrizePool": 97540,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 22,
+    "Name": "RUN IT TWICE",
+    "PrizePool": 7030,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 23,
+    "Name": "HYPER TURBO",
+    "PrizePool": 8630,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 24,
+    "Name": "HIGH ROLLER : MEGASTACK",
+    "PrizePool": 394550,
+    "BuyInAmount": 3256
+  },
+  {
+    "EventCode": 25,
+    "Name": "PLO KNOCKOUT",
+    "PrizePool": 21430,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 26,
+    "Name": "TURBO",
+    "PrizePool": 8790,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 27,
+    "Name": "CRAZY PINEAPPLE",
+    "PrizePool": 6950,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 28,
+    "Name": "HEADS UP CHALLENGE",
+    "PrizePool": 45570,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 29,
+    "Name": "MIDWEEK SUPERSTACK",
+    "PrizePool": 103130,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 30,
+    "Name": "SUPER HIGH ROLLER",
+    "PrizePool": 566050,
+    "BuyInAmount": 3721
+  },
+  {
+    "EventCode": 31,
+    "Name": "POT LIMIT OMAHA",
+    "PrizePool": 27820,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 32,
+    "Name": "FREEZEOUT",
+    "PrizePool": 25740,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 33,
+    "Name": "########",
+    "PrizePool": 6350,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 34,
+    "Name": "MAIN EVENT",
+    "PrizePool": 1434020,
+    "BuyInAmount": 1057
+  },
+  {
+    "EventCode": 35,
+    "Name": "BOUNTY EVENT",
+    "PrizePool": 54310,
+    "BuyInAmount": 423
+  },
+  {
+    "EventCode": 36,
+    "Name": "WOMEN'S EVENT",
+    "PrizePool": 7515,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 37,
+    "Name": "5-CARD PLO",
+    "PrizePool": 17100,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 38,
+    "Name": "HYPER TURBO",
+    "PrizePool": 21100,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 39,
+    "Name": "BILLIONAIRE CLUB CHALLENGE",
+    "PrizePool": 690770,
+    "BuyInAmount": 10571
+  },
+  {
+    "EventCode": 40,
+    "Name": "MYSTERY RUSH EVENT",
+    "PrizePool": 70100,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 41,
+    "Name": "TAG TEAM EVENT",
+    "PrizePool": 41970,
+    "BuyInAmount": 698
+  },
+  {
+    "EventCode": 42,
+    "Name": "TURBO",
+    "PrizePool": 27100,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 43,
+    "Name": "DOUBLE BOARD - SINGLE WINNER",
+    "PrizePool": 6870,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 44,
+    "Name": "MINI HIGH ROLLER",
+    "PrizePool": 81900,
+    "BuyInAmount": 930
+  },
+  {
+    "EventCode": 45,
+    "Name": "6-CARD PLO",
+    "PrizePool": 13425,
+    "BuyInAmount": 190
+  },
+  {
+    "EventCode": 46,
+    "Name": "HYPER TURBO",
+    "PrizePool": 9750,
+    "BuyInAmount": 372
+  },
+  {
+    "EventCode": 47,
+    "Name": "MEGASTACK ",
+    "PrizePool": 111485,
+    "BuyInAmount": 465
+  },
+  {
+    "EventCode": 48,
+    "Name": "HIGH ROLLER THE FINALE",
+    "PrizePool": 457930,
+    "BuyInAmount": 2791
+  },
+  {
+    "EventCode": 49,
+    "Name": "MIXED NLH/PLO",
+    "PrizePool": 13185,
+    "BuyInAmount": 233
+  },
+  {
+    "EventCode": 50,
+    "Name": "HYPER TURBO",
+    "PrizePool": 8030,
+    "BuyInAmount": 144
+  },
+  {
+    "EventCode": 51,
+    "Name": "THE CLOSER",
+    "PrizePool": 44830,
+    "BuyInAmount": 279
+  },
+  {
+    "EventCode": 52,
+    "Name": "HIGH ROLLER : LAST CHANCE",
+    "PrizePool": 125870,
+    "BuyInAmount": 1395
+  },
+  {
+    "EventCode": 53,
+    "Name": "SHORT DECK TURBO",
+    "PrizePool": 7190,
+    "BuyInAmount": 190
+  }
+]

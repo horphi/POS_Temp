@@ -1,0 +1,13 @@
+﻿version: '3.7'
+
+services:
+
+    cerzen.web.angular:
+        image: cerzen.web.angular
+        build:
+          context: .
+          dockerfile: Dockerfile
+        ports:
+            - "4200:80"
+        volumes:
+            - "./nginx.conf:/etc/nginx/nginx.conf:ro"

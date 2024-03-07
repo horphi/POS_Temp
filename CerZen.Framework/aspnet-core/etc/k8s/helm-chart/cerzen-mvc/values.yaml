@@ -1,0 +1,10 @@
+﻿global:
+  wwwDomain: cerzen-www
+  wwwUrl: "https://cerzen-www"
+  nginxProxyBufferSize: "32k"
+  nginxProxyBuffersNumber: "8"
+  defaultConnString: "Server=anz-sql,1433;Database=CerZenDb;User ID=sa;Password=123qweX."
+www:
+  containerImage: "cerzen-mvc"
+dbmigrator:
+  containerImage: "cerzen-migrator"

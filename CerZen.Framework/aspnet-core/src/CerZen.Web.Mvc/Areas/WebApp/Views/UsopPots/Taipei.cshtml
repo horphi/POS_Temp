@@ -1,0 +1,458 @@
+﻿@using Abp.Application.Services.Dto
+@using CerZen.Authorization
+@using CerZen.Web.Areas.WebApp.Models.Users
+@using CerZen.Web.Areas.WebApp.Startup
+@using Microsoft.EntityFrameworkCore.Metadata
+@model CerZen.Web.Areas.WebApp.Models.UsopPots.IndexViewModel;
+
+@{
+    ViewBag.CurrentPageName = WebAppPageNames.Common.UsopPots;
+}
+
+@section Scripts{
+    <script>
+
+    </script>
+}
+
+<abp-page-subheader title="POTS" description="Player of the Series">
+</abp-page-subheader>
+
+
+<div class="@(await GetContainerClass())">
+<div class="card">
+<div class="card-body">
+<div id="SettingsTabPanel" class="tabbable-line">
+<ul class="nav nav-tabs" role="tablist">
+    <li class="nav-item">
+        <a href="#TopPotsTabs" class="nav-link active" data-bs-toggle="tab" role="tab">
+            Player of the Series
+        </a>
+    </li>
+    <li class="nav-item">
+        <a href="#EventTabs" class="nav-link " data-bs-toggle="tab" role="tab">
+            Events
+        </a>
+    </li>
+
+    <li class="nav-item">
+        <a href="#PlayerItmTabs" data-bs-toggle="tab" role="tab" class="nav-link">
+            Player In The Money
+        </a>
+    </li>
+    <li class="nav-item">
+        <a href="#FormulaTabs" data-bs-toggle="tab" class="nav-link">
+            Formula
+        </a>
+    </li>
+</ul>
+<div class="tab-content m-5">
+
+<div id="TopPotsTabs" class="tab-pane active">
+    <h1>Player of the Series (Take 10)</h1>
+    <div class="row m-4">
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th scope="col" class="col-1">Rank</th>
+                <th scope="col" class="col-3">Player</th>
+                <th scope="col" class="col-2">TotalPoints</th>
+                <th scope="col" class="col-6 text-center">ITM Events</th>
+            </tr>
+            </thead>
+            <tbody>
+            @{ var x = 0; }
+            @foreach (var player in Model.TopTenPlayers)
+            {
+                x = x + 1;
+                <tr>
+                    <th class="expandable">@x</th>
+                    <th>@player.PlayerName</th>
+                    <th>@player.TotalPotsPoints</th>
+                    <th >
+                        <table class="table table-sm table-condensed">
+                            <thead>
+                            <tr class="d-flex">
+                                <th class="col-2">Event Code</th>
+                                <th class="col-6">Event Name</th>
+                                <th class="col-2">Finish Position</th>
+                                <th class="col-2">Point Earned</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            @foreach (var e in player.WonEvents)
+                            {
+                                <tr class="d-flex">
+                                    <td class="col-2">@e.EventCode</td>
+                                    <td class="col-6">@e.EventName</td>
+                                    <td class="col-2">@e.Rank</td>
+                                    <td class="col-2">@e.PotsPoint</td>
+                                </tr>
+                            }
+                            </tbody>
+                        </table>
+                    </th>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div id="EventTabs" class="tab-pane">
+    <h1>Events Point Tier</h1>
+    <div>
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name</th>
+                <th class="text-end">Buy In Amount</th>
+                <th class="text-end">Prize Pool</th>
+                <th class="text-end">Entries</th>
+                <td class="text-end">Tier</td>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var evt in Model.Events)
+            {
+                <tr>
+                    <td>@evt.EventCode</td>
+                    <td>@evt.EventName</td>
+                    <td class="text-end">@evt.BuyInAmount.ToString("N2")</td>
+                    <td class="text-end">@evt.PrizePool.ToString("N2")</td>
+                    <td class="text-end">@evt.Entries</td>
+                    <td class="text-end">@evt.PointsTier</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div id="PlayerItmTabs" class="tab-pane">
+    <h1>Player's Point </h1>
+    <div>
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th class="text-end">Rank</th>
+                <th>Player</th>
+                <th class="text-end">Points</th>
+            </tr>
+            </thead>
+            <tbody>
+            @{ var i = 0; }
+            @foreach (var player in Model.PlayerPotsPoints)
+            {
+                i = i + 1;
+                <tr>
+                    <td class="text-end">@i</td>
+                    <td>@player.PlayerName</td>
+                    <td class="text-end">@player.TotalPotsPoints</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div id="FormulaTabs" class="tab-pane">
+<div class="table-responsive">
+    <h3>Buy In Tier (Prize Pool scaled in 1000 USD)</h3>
+    <table class="table table-bordered">
+        <thead class="thead-dark">
+        <tr class="fw-bold fs-6 text-gray-800">
+            <th scope="col" class="col-1"></th>
+            <th scope="col" class="col-1 text-black">Min</th>
+            <th scope="col" class="col-1">Max</th>
+            <th scope="col" class="col-1">A</th>
+            <th scope="col" class="col-1">B</th>
+            <th scope="col" class="col-1">C</th>
+            <th scope="col" class="col-1">D</th>
+            <th scope="col" class="col-1">E</th>
+            <th scope="col" class="col-1">F</th>
+            <th scope="col" class="col-1">G</th>
+            <th scope="col" class="col-1">H</th>
+            <th scope="col" class="col-1"></th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td></td>
+            <td>0</td>
+            <td>249</td>
+            <td>25</td>
+            <td>25-50</td>
+            <td>50-75</td>
+            <td>75-100</td>
+            <td>100-150</td>
+            <td>150-250</td>
+            <td>250-350</td>
+            <td>350+</td>
+            <td></td>
+
+        </tr>
+        <tr>
+            <td></td>
+            <td>250</td>
+            <td>499</td>
+            <td>50</td>
+            <td>50-75</td>
+            <td>75-100</td>
+            <td>100-150</td>
+            <td>150-250</td>
+            <td>250-350</td>
+            <td>350-500</td>
+            <td>500+</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>500</td>
+            <td>999</td>
+            <td>75</td>
+            <td>75-125</td>
+            <td>125-180</td>
+            <td>180-250</td>
+            <td>250-350</td>
+            <td>350-500</td>
+            <td>500-750</td>
+            <td>750+</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>1000</td>
+            <td>2999</td>
+            <td>100</td>
+            <td>100-150</td>
+            <td>150-250</td>
+            <td>250-350</td>
+            <td>350-500</td>
+            <td>500-750</td>
+            <td>750-1M</td>
+            <td>1M+</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>3000</td>
+            <td>9999</td>
+            <td>150</td>
+            <td>150-250</td>
+            <td>250-350</td>
+            <td>350-500</td>
+            <td>500-750</td>
+            <td>750-1M</td>
+            <td>1M-1.5M</td>
+            <td>1.5M+</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>10000</td>
+            <td>24999</td>
+            <td>250</td>
+            <td>250-350</td>
+            <td>350-500</td>
+            <td>500-750</td>
+            <td>750-1M</td>
+            <td>1M-1.5M</td>
+            <td>1.5M-2M</td>
+            <td>2M +</td>
+            <td></td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+<hr/>
+<h3>
+    Point Bracket
+</h3>
+
+
+<table class="table table-bordered">
+    <thead class="thead-dark">
+    <tr class="fw-bold fs-6 text-gray-800">
+        <th scope="col">Finish Position</th>
+        <th scope="col">A</th>
+        <th scope="col">B</th>
+        <th scope="col">C</th>
+        <th scope="col">D</th>
+        <th scope="col">E</th>
+        <th scope="col">F</th>
+        <th scope="col">G</th>
+        <th scope="col">H</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>1st</td>
+        <td>500</td>
+        <td>550</td>
+        <td>600</td>
+        <td>650</td>
+        <td>700</td>
+        <td>750</td>
+        <td>800</td>
+        <td>900</td>
+    </tr>
+    <tr>
+        <td>2nd</td>
+        <td>375</td>
+        <td>425</td>
+        <td>450</td>
+        <td>500</td>
+        <td>525</td>
+        <td>550</td>
+        <td>600</td>
+        <td>700</td>
+    </tr>
+    <tr>
+        <td>3rd</td>
+        <td>300</td>
+        <td>350</td>
+        <td>375</td>
+        <td>400</td>
+        <td>425</td>
+        <td>450</td>
+        <td>500</td>
+        <td>600</td>
+    </tr>
+    <tr>
+        <td>4th</td>
+        <td>250</td>
+        <td>275</td>
+        <td>300</td>
+        <td>325</td>
+        <td>350</td>
+        <td>375</td>
+        <td>400</td>
+        <td>500</td>
+    </tr>
+    <tr>
+        <td>5th</td>
+        <td>200</td>
+        <td>225</td>
+        <td>250</td>
+        <td>250</td>
+        <td>275</td>
+        <td>300</td>
+        <td>300</td>
+        <td>400</td>
+    </tr>
+    <tr>
+        <td>6th</td>
+        <td>150</td>
+        <td>175</td>
+        <td>200</td>
+        <td>200</td>
+        <td>225</td>
+        <td>250</td>
+        <td>250</td>
+        <td>300</td>
+    </tr>
+    <tr>
+        <td>7th</td>
+        <td>125</td>
+        <td>125</td>
+        <td>150</td>
+        <td>150</td>
+        <td>175</td>
+        <td>200</td>
+        <td>200</td>
+        <td>250</td>
+    </tr>
+    <tr>
+        <td>8th</td>
+        <td>100</td>
+        <td>100</td>
+        <td>125</td>
+        <td>125</td>
+        <td>125</td>
+        <td>150</td>
+        <td>150</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>9th</td>
+        <td>85</td>
+        <td>90</td>
+        <td>100</td>
+        <td>100</td>
+        <td>100</td>
+        <td>125</td>
+        <td>125</td>
+        <td>150</td>
+    </tr>
+    <tr>
+        <td>10th</td>
+        <td>55</td>
+        <td>60</td>
+        <td>75</td>
+        <td>75</td>
+        <td>75</td>
+        <td>100</td>
+        <td>100</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>11th - 15th</td>
+        <td>35</td>
+        <td>45</td>
+        <td>50</td>
+        <td>50</td>
+        <td>50</td>
+        <td>75</td>
+        <td>75</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>16th</td>
+        <td>15</td>
+        <td>20</td>
+        <td>25</td>
+        <td>25</td>
+        <td>25</td>
+        <td>50</td>
+        <td>50</td>
+        <td>75</td>
+    </tr>
+    </tbody>
+</table>
+<hr/>
+<br/>
+
+<div class="mt-5">
+<p>Points for the USOP Player of the Series are allocated based on two factors:</p>
+
+<ul>
+    <li>The total prize pool of each eligible event</li>
+    <li>The respective buy-in category</li>
+</ul>
+
+<p>The recipient of the USOP Player of the Series award will be the player accumulating the most POS points throughout the tournament period. In case of a tie in points, a tiebreaking system is in place in order of precedence.</p>
+
+<ol>
+    <li><strong>Most Titles:</strong> Should players share an equal number of points, the primary tiebreaker considers the number of titles won. The player with the most tournament victories during the series gains an advantage.</li>
+    <li><strong>Most Final Tables:</strong> If a tie persists after accounting for titles, the tiebreaker shifts to the number of final tables reached. Final tables denote the conclusive phase of a poker tournament where a select few vie for top positions. This only applies for results that qualify for points.</li>
+    <li><strong>Most In The Points:</strong> In the event of an ongoing tie, the tiebreaker examines the frequency with which a player finished "in the points." This entails securing a position that merits a portion of the prize pool, extending beyond merely making the final table.</li>
+    <li><strong>Most Money Won (USD):</strong> If the tie remains unresolved, the ultimate tiebreaker becomes the total amount of money won by the player in tournaments contributing to the Player of the Series points. This specifically pertains to results that accrued points in the competition. The exchange rate for non-USD USOP Tournaments is determined by the closing rate on the first day of the tournament, as per the XE Currency Website.</li>
+</ol>
+
+<p>To earn points as per the POS points schedule, an event must attract a minimum of 10 entries, and players must finish In The Money (ITM).</p>
+
+<p>Invitational events and those with restrictions based on sex, age, or other specific criteria are not considered eligible events and do not contribute towards POS Points.</p>
+
+<p>For specialized events like Heads Up, where, for instance, 4 players are eliminated from the last 8, points are averaged based on the total of 5th to 8th place points.</p>
+
+<p>In events such as Tag Team, both players receive the place points corresponding to their shared placement.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,21 @@
+﻿version: '3.7'
+
+services:
+  
+  cerzen.web.public:
+    image: ${DOCKER_REGISTRY-}cerzenwebpublic
+    container_name: cerzenwebpublic_container
+    build:
+      context: ../../
+      dockerfile: src/CerZen.Web.Public/Dockerfile
+    environment:
+      - ConnectionStrings__Default=Server=mssqlDb;Database=CerZenDb;User=sa;Password=Super_Encrypted_Passw0rd!
+    ports:
+      - "44303:443"
+    networks:
+      - cerzen
+
+networks:
+  cerzen:
+    external:
+      name: cerzen
